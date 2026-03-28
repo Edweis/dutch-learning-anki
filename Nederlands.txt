@@ -190,3 +190,10 @@ I find <u>it</u> strange (het-woord)	Ik vind <u>het</u> vreemd	pronoun personal
 He helps <u>us</u>	Hij helpt <u>ons</u>	pronoun personal
 I thank <u>you</u> (formal)	Ik dank <u>u</u>	pronoun personal
 I'm inviting <u>them</u> tonight	Ik nodig <u>hen</u> vanavond uit	pronoun personal
+When I was six... (toen ik zes was...)	<u>Toen</u> ik zes was, zag ik een prachtig plaatje.	sentence expression de-kleine-prins-chapter-1
+To draw	Ik wilde leren <u>tekenen</u>.	verb de-kleine-prins-chapter-1
+The jungle	De <u>jungle</u> is vol wilde dieren.	noun de-kleine-prins-chapter-1
+The drawing looked like this	De <u>tekening</u> zag er zo uit.	sentence noun de-kleine-prins-chapter-1
+This/that (dit/deze = this for het/de words, dat/die = that for het/de words)	<u>Dit</u> boek is mooi. / <u>Deze</u> man is groot. / <u>Dat</u> huis is oud. / <u>Die</u> vrouw is aardig.	pronoun grammar reference de-kleine-prins-chapter-1
+First, second... tenth (ordinal numbers)	<u>eerste</u>, <u>tweede</u>, <u>derde</u>, <u>vierde</u>, <u>vijfde</u>, <u>zesde</u>, <u>zevende</u>, <u>achtste</u>, <u>negende</u>, <u>tiende</u>	reference grammar de-kleine-prins-chapter-1
+I showed my masterpiece to the grown-ups	Ik liet mijn meesterwerk aan de grote mensen <u>zien</u>.	sentence verb de-kleine-prins-chapter-1
