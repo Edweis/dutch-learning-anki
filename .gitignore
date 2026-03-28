@@ -1,4 +1,0 @@
-*.HEIC
-*.MOV
-# Old converted files with long UUID names
-images/*_L0_*
