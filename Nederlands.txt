@@ -9,7 +9,7 @@ On mange <u>maintenant</u>	We eten <u>nu</u>	adverb
 Elle est <u>toujours</u> joyeuse	Ze is <u>altijd</u> vrolijk	adverb
 Je ne bois <u>jamais</u> de café	Ik drink <u>nooit</u> koffie	adverb
 <u>Parfois</u> il pleut fort	<u>Soms</u> regent het hard	adverb
-Il fait <u>souvent</u> du vélo pour aller au travail	Hij fietst <u>vaak</u> naar werk	adverb
+Il fait <u>souvent</u> du vélo pour aller au travail	Hij fietst <u>vaak</u> naar het werk	adverb
 Elle sort <u>rarement</u>	Ze gaat <u>zelden</u> uit	adverb
 Tu as <u>déjà</u> mangé ?	Heb je <u>al</u> gegeten?	adverb
 Je suis <u>encore</u> fatigué	Ik ben <u>nog</u> moe	adverb
@@ -29,7 +29,6 @@ Le chat est <u>en haut</u>	De kat zit <u>boven</u>	adverb
 Il attend <u>en bas</u>	Hij wacht <u>beneden</u>	adverb
 Elle se lève <u>tôt</u>	Ze staat <u>vroeg</u> op	adverb
 Il arrive toujours <u>tard</u>	Hij komt altijd <u>laat</u>	adverb
-Je réfléchis <u>volontiers</u>	Ik denk <u>graag</u> mee	adverb
 Je mange <u>de préférence</u> du poisson	Ik eet <u>liever</u> vis	adverb
 Je préfère <u>par-dessus tout</u> rentrer	Ik ga <u>het liefst</u> naar huis	adverb
 Il vient <u>peut-être</u> demain	Hij komt <u>misschien</u> morgen	adverb
@@ -62,17 +61,17 @@ J'habite ici <u>depuis</u> janvier	Ik woon hier <u>vanaf</u> januari	adverb
 Je veux <u>devenir</u> médecin	Ik wil dokter <u>worden</u>	verb
 Je <u>choisis</u> le rouge	Ik <u>kies</u> de rode	verb
 J'<u>apprends</u> le néerlandais	Ik <u>leer</u> Nederlands	verb
-J'ai <u>perdu</u> mes clés	Ik ben mijn sleutels <u>kwijt</u>	verb
+J'ai <u>perdu</u> mes clés	Ik ben mijn sleutels <u>kwijt</u>	adjective
 Enchanté de te <u>rencontrer</u> !	Leuk je te <u>ontmoeten</u>!	verb
 J'<u>essaie</u> !	Ik <u>probeer</u> het!	verb
 Je m'<u>adapte</u> bien	Ik <u>pas</u> me wel <u>aan</u>	verb
-On a <u>bavardé</u> toute la soirée	We <u>praten</u> de hele avond	verb
+On a <u>bavardé</u> toute la soirée	We hebben de hele avond <u>gepraat</u>	verb
 Qu'est-ce qu'il a <u>dit</u> ?	Wat <u>zei</u> hij?	verb
 Il a <u>raconté</u> une histoire	Hij <u>vertelde</u> een verhaal	verb
 Il <u>parlait</u> lentement	Hij <u>sprak</u> langzaam	verb
 Enchanté de <u>faire ta connaissance</u> !	Leuk je te <u>leren kennen</u>!	verb
 Je ne <u>sais</u> pas	Ik <u>weet</u> het niet	verb
-Je suis <u>occupé</u> avec mes devoirs	Ik ben <u>bezig</u> met mijn huiswerk	verb
+Je suis <u>occupé</u> avec mes devoirs	Ik ben <u>bezig</u> met mijn huiswerk	adjective
 J'ai <u>oublié</u> mon parapluie	Ik ben mijn paraplu <u>vergeten</u>	verb
 Je dois <u>terminer</u> mes devoirs	Ik moet mijn huiswerk <u>afmaken</u>	verb
 Je ne me <u>souviens</u> pas de son nom	Ik <u>herinner</u> me zijn naam niet	verb
@@ -139,7 +138,7 @@ Ce livre est très <u>intéressant</u>	Dit boek is heel <u>interessant</u>	adjec
 Le film était <u>ennuyeux</u>	De film was <u>saai</u>	adjective
 Elle est toujours habillée de manière <u>élégante</u>	Zij is altijd <u>elegant</u> gekleed	adjective
 Sa chambre est toujours <u>négligée</u>	Zijn kamer is altijd <u>slordig</u>	adjective
-C'est <u>évidemment</u> déjà fermé	Het is <u>blijkbaar</u> al gesloten	adverb
+C'est <u>apparemment</u> déjà fermé	Het is <u>blijkbaar</u> al gesloten	adverb
 J'ai <u>peur</u> des araignées	Ik ben <u>bang</u> voor spinnen	adjective
 Ce livre est <u>sympa</u>, mais celui-là est <u>plus sympa</u>, et celui-ci est <u>le plus sympa</u>	Dit boek is <u>leuk</u>, maar dat boek is <u>leuker</u>, en dit is het <u>leukst</u>	adjective
 <u>Courage</u> / <u>courageux</u> / <u>(dé)courager</u>	<u>Moed</u> = courage, <u>moedig</u> = courageux<br><u>Aanmoedigen</u> = encourager<br><u>Ontmoedigen</u> = décourager<br><u>Ontmoedigd</u> = découragé<br><u>Ontmoediging</u> = découragement	expression
@@ -153,7 +152,7 @@ Tu <u>trouves</u> ça <u>chouette</u> ?	<u>Vind</u> jij het <u>leuk</u>?	verb se
 J'aime les <u>carottes</u>	Ik hou van <u>wortels</u>	noun
 C'est un problème <u>simple</u>	Dit is een <u>eenvoudig</u> probleem	adjective
 Ils sont <u>au mieux</u> le matin	Ze zijn <u>op hun best</u> in de ochtend	expression
-<u>Quoi qu'il en soit</u>, je te soutiens	<u>Wat dan ook</u>, ik steun je	expression
+<u>Quoi qu'il en soit</u>, je te soutiens	<u>Hoe dan ook</u>, ik steun je	expression
 La <u>famille</u> (<u>parents</u>, <u>frère</u>, <u>sœur</u>)	<u>Ouders</u> = parents, <u>vader</u> = père, <u>moeder</u> = mère<br><u>Broer</u> = frère, <u>zus</u> = sœur	noun family
 <u>Qui</u> est-ce ?	<u>Wie</u> is dat?	question
 <u>Qu'</u>est-ce que tu veux manger ?	<u>Wat</u> wil je eten?	question
@@ -169,8 +168,25 @@ Tu pars en vacances <u>vers où</u> ?	<u>Waarheen</u> ga je op vakantie?	questio
 <u>Avec quoi</u> écris-tu ?	<u>Waarmee</u> schrijf je?	question
 <u>De quoi</u> parles-tu ?	<u>Waarover</u> praat je?	question
 <u>Pour quoi</u> est-ce ?	<u>Waarvoor</u> is dat?	question
-<u>De qui / dont</u> est ce livre ?	<u>Waarvan</u> is dit boek gemaakt?	question
+<u>De qui / dont</u> est ce livre ?	Van <u>wie</u> is dit boek?	question
 <u>D'où</u> sort-il ?	<u>Waaruit</u> komt het?	question
 <u>Combien de temps</u> ça dure ?	<u>Hoe lang</u> duurt het?	question
 <u>À quelle heure</u> viens-tu ?	<u>Hoe laat</u> kom je?	question
-Verbes <u>faibles</u> / <u>forts</u> / <u>modaux</u>	<b>Zwakke werkwoorden:</b> werken, maken, praten, fietsen, wonen<br><b>Sterke werkwoorden:</b> spreken, schrijven, rijden, geven, nemen<br><b>Modale werkwoorden:</b> kunnen, willen, mogen, moeten, zullen, hoeven	verb grammar
+Verbes <u>faibles</u> / <u>forts</u> / <u>modaux</u>	<b>Zwakke werkwoorden:</b> werken, maken, praten, fietsen, wonen<br><b>Sterke werkwoorden:</b> spreken, schrijven, rijden, geven, nemen<br><b>Modale werkwoorden:</b> kunnen, willen, mogen, moeten, zullen, hoeven	verb grammar reference
+<u>Mon</u> vélo est cassé	<u>Mijn</u> fiets is kapot	pronoun possessive
+<u>Ton</u> café est prêt	<u>Jouw</u> koffie is klaar	pronoun possessive
+<u>Son</u> chien est grand (il)	<u>Zijn</u> hond is groot	pronoun possessive
+<u>Son</u> chat est mignon (elle)	<u>Haar</u> kat is lief	pronoun possessive
+<u>Notre</u> maison est grande	<u>Ons</u> huis is groot	pronoun possessive
+<u>Notre</u> voiture est neuve	<u>Onze</u> auto is nieuw	pronoun possessive
+<u>Votre</u> jardin est beau (pluriel)	<u>Jullie</u> tuin is mooi	pronoun possessive
+<u>Votre</u> commande est prête (formel)	<u>Uw</u> bestelling is klaar	pronoun possessive
+<u>Leur</u> fils habite à Amsterdam	<u>Hun</u> zoon woont in Amsterdam	pronoun possessive
+Il <u>me</u> voit	Hij ziet <u>mij</u>	pronoun personal
+Je <u>te</u> connais	Ik ken <u>jou</u>	pronoun personal
+Je <u>le</u> comprends	Ik begrijp <u>hem</u>	pronoun personal
+Je <u>la</u> cherche	Ik zoek <u>haar</u>	pronoun personal
+Je <u>le</u> trouve bizarre (het-woord)	Ik vind <u>het</u> vreemd	pronoun personal
+Il <u>nous</u> aide	Hij helpt <u>ons</u>	pronoun personal
+Je <u>vous</u> remercie (formel)	Ik dank <u>u</u>	pronoun personal
+Je <u>les</u> invite ce soir	Ik nodig <u>hen</u> vanavond uit	pronoun personal
