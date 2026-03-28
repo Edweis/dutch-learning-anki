@@ -1,192 +1,192 @@
 #separator:tab
 #html:true
 #tags column:3
-<u>Cette semaine</u>, j'étais en France	<u>Deze week</u> was ik in Frankrijk	adverb sentence
-Les clés sont <u>ici</u>	De sleutels zijn <u>hier</u>	adverb
-Il habite <u>là-bas</u>	Hij woont <u>daar</u>	adverb
-On mange <u>maintenant</u>	We eten <u>nu</u>	adverb
-<u>Alors</u> on s'en va	<u>Dan</u> gaan we weg	adverb
-Elle est <u>toujours</u> joyeuse	Ze is <u>altijd</u> vrolijk	adverb
-Je ne bois <u>jamais</u> de café	Ik drink <u>nooit</u> koffie	adverb
-<u>Parfois</u> il pleut fort	<u>Soms</u> regent het hard	adverb
-Il fait <u>souvent</u> du vélo pour aller au travail	Hij fietst <u>vaak</u> naar het werk	adverb
-Elle sort <u>rarement</u>	Ze gaat <u>zelden</u> uit	adverb
-Tu as <u>déjà</u> mangé ?	Heb je <u>al</u> gegeten?	adverb
-Je suis <u>encore</u> fatigué	Ik ben <u>nog</u> moe	adverb
-C'est <u>presque</u> prêt	Het is <u>bijna</u> klaar	adverb
-C'est <u>très</u> bon	Dit is <u>heel</u> lekker	adverb
-Il fait <u>très</u> froid aujourd'hui	Het is <u>erg</u> koud vandaag	adverb
-C'est <u>vraiment</u> beau	Dit is <u>echt</u> mooi	adverb
-Je veux <u>bien</u> venir	Ik wil <u>wel</u> komen	adverb
-Je <u>ne</u> comprends <u>pas</u>	Ik begrijp het <u>niet</u>	adverb
-Je parle <u>aussi</u> français	Ik spreek <u>ook</u> Frans	adverb
-On mange <u>ensemble</u>	We eten <u>samen</u>	adverb
-Ils vivent <u>séparément</u>	Ze wonen <u>apart</u>	adverb
-Je reste <u>à la maison</u>	Ik blijf <u>thuis</u>	adverb
-Les enfants jouent <u>dehors</u>	De kinderen spelen <u>buiten</u>	adverb
-Entrez <u>dedans</u> !	Kom <u>binnen</u>!	adverb
-Le chat est <u>en haut</u>	De kat zit <u>boven</u>	adverb
-Il attend <u>en bas</u>	Hij wacht <u>beneden</u>	adverb
-Elle se lève <u>tôt</u>	Ze staat <u>vroeg</u> op	adverb
-Il arrive toujours <u>tard</u>	Hij komt altijd <u>laat</u>	adverb
-Je mange <u>de préférence</u> du poisson	Ik eet <u>liever</u> vis	adverb
-Je préfère <u>par-dessus tout</u> rentrer	Ik ga <u>het liefst</u> naar huis	adverb
-Il vient <u>peut-être</u> demain	Hij komt <u>misschien</u> morgen	adverb
-C'est <u>certainement</u> vrai	Dat is <u>zeker</u> waar	adverb
-Elle est <u>probablement</u> malade	Ze is <u>waarschijnlijk</u> ziek	adverb
-<u>Bien sûr</u> que je t'aide	<u>Natuurlijk</u> help ik je	adverb
-<u>Malheureusement</u> je ne peux pas venir	<u>Helaas</u> kan ik niet komen	adverb
-Il est <u>pourtant</u> venu	Hij is <u>toch</u> gekomen	adverb
-Fais <u>simplement</u> comme d'habitude	Doe <u>gewoon</u> normaal	adverb
-<u>En fait</u> tu as raison	<u>Eigenlijk</u> heb je gelijk	adverb
-Ça dure <u>environ</u> une heure	Het duurt <u>ongeveer</u> een uur	adverb
-J'arrive <u>tout de suite</u>	Ik kom <u>meteen</u>	adverb
-On parle <u>tout à l'heure</u>	We praten <u>straks</u>	adverb
-Il y a <u>partout</u> des fleurs	Er zijn <u>overal</u> bloemen	adverb
-Je ne trouve mes clés <u>nulle part</u>	Ik kan mijn sleutels <u>nergens</u> vinden	adverb
-Il habite <u>quelque part</u> en France	Hij woont <u>ergens</u> in Frankrijk	adverb
-Il est <u>enfin</u> arrivé	Hij is <u>eindelijk</u> aangekomen	adverb
-Il est <u>encore une fois</u> en retard	Hij is <u>alweer</u> te laat	adverb
-<u>De plus</u> c'est moins cher	<u>Bovendien</u> is het goedkoper	adverb
-<u>Malgré tout</u> il a réussi	<u>Desondanks</u> is hij geslaagd	adverb
-Je fais du sport <u>quotidiennement</u>	Ik sport <u>dagelijks</u>	adverb
-Tu as <u>jamais</u> mangé du sushi ?	Heb je <u>ooit</u> sushi gegeten?	adverb
-Il est <u>la plupart du temps</u> à l'heure	Hij is <u>meestal</u> op tijd	adverb
-<u>Soudainement</u> il a commencé à pleuvoir	<u>Plotseling</u> begon het te regenen	adverb
-Il fait <u>trop</u> froid pour nager	Het is <u>te</u> koud om te zwemmen	adverb
-<u>Précédemment</u> j'habitais à Singapour	<u>Voorheen</u> woonde ik in Singapore	adverb
-<u>Désormais</u> je vais étudier chaque jour	<u>Voortaan</u> ga ik elke dag studeren	adverb
-J'habite ici <u>depuis</u> janvier	Ik woon hier <u>vanaf</u> januari	adverb
-<u>Jusqu'à quand</u> restes-tu à Amsterdam ?	<u>Tot wanneer</u> blijf je in Amsterdam?	adverb
-Je veux <u>devenir</u> médecin	Ik wil dokter <u>worden</u>	verb
-Je <u>choisis</u> le rouge	Ik <u>kies</u> de rode	verb
-J'<u>apprends</u> le néerlandais	Ik <u>leer</u> Nederlands	verb
-J'ai <u>perdu</u> mes clés	Ik ben mijn sleutels <u>kwijt</u>	adjective
-Enchanté de te <u>rencontrer</u> !	Leuk je te <u>ontmoeten</u>!	verb
-J'<u>essaie</u> !	Ik <u>probeer</u> het!	verb
-Je m'<u>adapte</u> bien	Ik <u>pas</u> me wel <u>aan</u>	verb
-On a <u>bavardé</u> toute la soirée	We hebben de hele avond <u>gepraat</u>	verb
-Qu'est-ce qu'il a <u>dit</u> ?	Wat <u>zei</u> hij?	verb
-Il a <u>raconté</u> une histoire	Hij <u>vertelde</u> een verhaal	verb
-Il <u>parlait</u> lentement	Hij <u>sprak</u> langzaam	verb
-Enchanté de <u>faire ta connaissance</u> !	Leuk je te <u>leren kennen</u>!	verb
-Je ne <u>sais</u> pas	Ik <u>weet</u> het niet	verb
-Je suis <u>occupé</u> avec mes devoirs	Ik ben <u>bezig</u> met mijn huiswerk	adjective
-J'ai <u>oublié</u> mon parapluie	Ik ben mijn paraplu <u>vergeten</u>	verb
-Je dois <u>terminer</u> mes devoirs	Ik moet mijn huiswerk <u>afmaken</u>	verb
-Je ne me <u>souviens</u> pas de son nom	Ik <u>herinner</u> me zijn naam niet	verb
-J'<u>espère</u> que tout ira bien	Ik <u>hoop</u> dat het goed gaat	verb
-Je veux te <u>raconter</u> ma journée d'hier	Ik wil je <u>vertellen</u> over mijn dag van gisteren	verb sentence
-<u>Il y avait</u> peu de monde	<u>Er waren</u> niet veel mensen	verb sentence
-Je veux <u>rentrer</u>	Ik wil <u>naar huis gaan</u>	verb
-Il a commencé à <u>pleuvoir</u>	Het begon te <u>regenen</u>	verb
-L'arbre est très <u>grand</u>	De boom is heel <u>groot</u>	adjective
-Ma main est <u>petite</u>	Mijn hand is <u>klein</u>	adjective
-La gare est <u>proche</u>	Het station is <u>dichtbij</u>	adjective
-Le village est <u>loin</u>	Het dorp is <u>ver</u>	adjective
-Le train est <u>rapide</u>	De trein is <u>snel</u>	adjective
-La tortue est <u>lente</u>	De schildpad is <u>langzaam</u>	adjective
-Le temps est <u>bon</u>	Het weer is <u>goed</u>	adjective
-Le temps est <u>mauvais</u>	Het weer is <u>slecht</u>	adjective
-J'ai une <u>nouvelle</u> voiture	Ik heb een <u>nieuwe</u> auto	adjective
-Cette maison est <u>vieille</u>	Dit huis is <u>oud</u>	adjective
-Le chat est <u>jeune</u>	De kat is <u>jong</u>	adjective
-La rue est <u>longue</u>	De straat is <u>lang</u>	adjective
-L'histoire est <u>courte</u>	Het verhaal is <u>kort</u>	adjective
-La montagne est <u>haute</u>	De berg is <u>hoog</u>	adjective
-Le prix est <u>bas</u>	De prijs is <u>laag</u>	adjective
-La fleur est <u>belle</u>	De bloem is <u>mooi</u>	adjective
-Ce bâtiment est <u>laid</u>	Dit gebouw is <u>lelijk</u>	adjective
-L'homme est <u>fort</u>	De man is <u>sterk</u>	adjective
-Le signal est <u>faible</u>	Het signaal is <u>zwak</u>	adjective
-La pierre est <u>dure</u>	De steen is <u>hard</u>	adjective
-L'oreiller est <u>mou</u>	Het kussen is <u>zacht</u>	adjective
-La soupe est <u>chaude</u>	De soep is <u>warm</u>	adjective
-L'eau est <u>froide</u>	Het water is <u>koud</u>	adjective
-L'air est <u>sec</u>	De lucht is <u>droog</u>	adjective
-Mes cheveux sont <u>mouillés</u>	Mijn haar is <u>nat</u>	adjective
-La valise est <u>lourde</u>	De koffer is <u>zwaar</u>	adjective
-La plume est <u>légère</u>	De veer is <u>licht</u>	adjective
-La chambre est <u>foncée</u>	De kamer is <u>donker</u>	adjective
-Le roi est <u>riche</u>	De koning is <u>rijk</u>	adjective
-La famille est <u>pauvre</u>	De familie is <u>arm</u>	adjective
-Elle est <u>heureuse</u>	Zij is <u>gelukkig</u>	adjective
-L'enfant est <u>triste</u>	Het kind is <u>verdrietig</u>	adjective
-Je suis <u>fatigué</u> après le travail	Ik ben <u>moe</u> na het werk	adjective
-Il est <u>malade</u> aujourd'hui	Hij is <u>ziek</u> vandaag	adjective
-Le bébé est <u>en bonne santé</u>	De baby is <u>gezond</u>	adjective
-La musique est <u>joyeuse</u>	De muziek is <u>vrolijk</u>	adjective
-Le village est <u>calme</u>	Het dorp is <u>rustig</u>	adjective
-La ville est <u>animée</u>	De stad is <u>druk</u>	adjective
-La fête est <u>sympa</u>	Het feest is <u>leuk</u>	adjective
-La bouteille est <u>vide</u>	De fles is <u>leeg</u>	adjective
-Le sac est <u>plein</u>	De zak is <u>vol</u>	adjective
-Cette montre est <u>chère</u>	Dit horloge is <u>duur</u>	adjective
-Les chaussures sont <u>bon marché</u>	De schoenen zijn <u>goedkoop</u>	adjective
-La rivière est <u>large</u>	De rivier is <u>breed</u>	adjective
-Le chemin est <u>étroit</u>	Het pad is <u>smal</u>	adjective
-Le lac est <u>profond</u>	Het meer is <u>diep</u>	adjective
-La flaque est <u>peu profonde</u>	De plas is <u>ondiep</u>	adjective
-Le mur est <u>épais</u>	De muur is <u>dik</u>	adjective
-Le papier est <u>mince</u>	Het papier is <u>dun</u>	adjective
-L'étudiant est <u>intelligent</u>	De student is <u>slim</u>	adjective
-C'était une erreur <u>stupide</u>	Dat was een <u>domme</u> fout	adjective
-La réunion est <u>importante</u>	De vergadering is <u>belangrijk</u>	adjective
-C'est une leçon <u>facile</u>	Dit is een <u>makkelijke</u> les	adjective
-Le test est très <u>difficile</u>	De test is erg <u>moeilijk</u>	adjective
-Ce livre est très <u>intéressant</u>	Dit boek is heel <u>interessant</u>	adjective
-Le film était <u>ennuyeux</u>	De film was <u>saai</u>	adjective
-Elle est toujours habillée de manière <u>élégante</u>	Zij is altijd <u>elegant</u> gekleed	adjective
-Sa chambre est toujours <u>négligée</u>	Zijn kamer is altijd <u>slordig</u>	adjective
-C'est <u>apparemment</u> déjà fermé	Het is <u>blijkbaar</u> al gesloten	adverb
-J'ai <u>peur</u> des araignées	Ik ben <u>bang</u> voor spinnen	adjective
-Ce livre est <u>sympa</u>, mais celui-là est <u>plus sympa</u>, et celui-ci est <u>le plus sympa</u>	Dit boek is <u>leuk</u>, maar dat boek is <u>leuker</u>, en dit is het <u>leukst</u>	adjective
-<u>Courage</u> / <u>courageux</u> / <u>(dé)courager</u>	<u>Moed</u> = courage, <u>moedig</u> = courageux<br><u>Aanmoedigen</u> = encourager<br><u>Ontmoedigen</u> = décourager<br><u>Ontmoedigd</u> = découragé<br><u>Ontmoediging</u> = découragement	expression
-Je <u>peux</u> bien nager	Ik <u>kan</u> goed zwemmen	verb
-Je <u>veux</u> un café	Ik <u>wil</u> een kopje koffie	verb
-Tu n'<u>as pas le droit</u> de fumer ici	Je <u>mag</u> hier niet roken	verb
-Tu <u>dois</u> faire tes devoirs	Je <u>moet</u> je huiswerk maken	verb
-Il <u>va</u> pleuvoir demain	Het <u>zal</u> morgen regenen	verb
-Tu n'<u>as pas besoin</u> de payer	Je <u>hoeft</u> niet te betalen	verb
-Tu <u>trouves</u> ça <u>chouette</u> ?	<u>Vind</u> jij het <u>leuk</u>?	verb sentence
-J'aime les <u>carottes</u>	Ik hou van <u>wortels</u>	noun
-C'est un problème <u>simple</u>	Dit is een <u>eenvoudig</u> probleem	adjective
-Ils sont <u>au mieux</u> le matin	Ze zijn <u>op hun best</u> in de ochtend	expression
-<u>Quoi qu'il en soit</u>, je te soutiens	<u>Hoe dan ook</u>, ik steun je	expression
-La <u>famille</u> (<u>parents</u>, <u>frère</u>, <u>sœur</u>)	<u>Ouders</u> = parents, <u>vader</u> = père, <u>moeder</u> = mère<br><u>Broer</u> = frère, <u>zus</u> = sœur	noun family
-<u>Qui</u> est-ce ?	<u>Wie</u> is dat?	question
-<u>Qu'</u>est-ce que tu veux manger ?	<u>Wat</u> wil je eten?	question
-<u>Où</u> habites-tu ?	<u>Waar</u> woon je?	question
-<u>Quand</u> viens-tu ?	<u>Wanneer</u> kom je?	question
-<u>Pourquoi</u> es-tu en retard ?	<u>Waarom</u> ben je laat?	question
-<u>Comment</u> vas-tu ?	<u>Hoe</u> gaat het met je?	question
-<u>Quel</u> train prends-tu ?	<u>Welke</u> trein neem jij?	question
-<u>Combien</u> ça coûte ?	<u>Hoeveel</u> kost dat?	question
-<u>À qui</u> est ce sac ?	Van <u>wie</u> is deze tas?	question
-<u>D'où</u> viens-tu ?	<u>Waar</u> kom je <u>vandaan</u>?	question
-Tu pars en vacances <u>vers où</u> ?	<u>Waarheen</u> ga je op vakantie?	question
-<u>Avec quoi</u> écris-tu ?	<u>Waarmee</u> schrijf je?	question
-<u>De quoi</u> parles-tu ?	<u>Waarover</u> praat je?	question
-<u>Pour quoi</u> est-ce ?	<u>Waarvoor</u> is dat?	question
-<u>De qui / dont</u> est ce livre ?	Van <u>wie</u> is dit boek?	question
-<u>D'où</u> sort-il ?	<u>Waaruit</u> komt het?	question
-<u>Combien de temps</u> ça dure ?	<u>Hoe lang</u> duurt het?	question
-<u>À quelle heure</u> viens-tu ?	<u>Hoe laat</u> kom je?	question
-Verbes <u>faibles</u> / <u>forts</u> / <u>modaux</u>	<b>Zwakke werkwoorden:</b> werken, maken, praten, fietsen, wonen<br><b>Sterke werkwoorden:</b> spreken, schrijven, rijden, geven, nemen<br><b>Modale werkwoorden:</b> kunnen, willen, mogen, moeten, zullen, hoeven	verb grammar reference
-<u>Mon</u> vélo est cassé	<u>Mijn</u> fiets is kapot	pronoun possessive
-<u>Ton</u> café est prêt	<u>Jouw</u> koffie is klaar	pronoun possessive
-<u>Son</u> chien est grand (il)	<u>Zijn</u> hond is groot	pronoun possessive
-<u>Son</u> chat est mignon (elle)	<u>Haar</u> kat is lief	pronoun possessive
-<u>Notre</u> maison est grande	<u>Ons</u> huis is groot	pronoun possessive
-<u>Notre</u> voiture est neuve	<u>Onze</u> auto is nieuw	pronoun possessive
-<u>Votre</u> jardin est beau (pluriel)	<u>Jullie</u> tuin is mooi	pronoun possessive
-<u>Votre</u> commande est prête (formel)	<u>Uw</u> bestelling is klaar	pronoun possessive
-<u>Leur</u> fils habite à Amsterdam	<u>Hun</u> zoon woont in Amsterdam	pronoun possessive
-Il <u>me</u> voit	Hij ziet <u>mij</u>	pronoun personal
-Je <u>te</u> connais	Ik ken <u>jou</u>	pronoun personal
-Je <u>le</u> comprends	Ik begrijp <u>hem</u>	pronoun personal
-Je <u>la</u> cherche	Ik zoek <u>haar</u>	pronoun personal
-Je <u>le</u> trouve bizarre (het-woord)	Ik vind <u>het</u> vreemd	pronoun personal
-Il <u>nous</u> aide	Hij helpt <u>ons</u>	pronoun personal
-Je <u>vous</u> remercie (formel)	Ik dank <u>u</u>	pronoun personal
-Je <u>les</u> invite ce soir	Ik nodig <u>hen</u> vanavond uit	pronoun personal
+<u>This week</u> I was in France	<u>Deze week</u> was ik in Frankrijk	adverb sentence
+The keys are <u>here</u>	De sleutels zijn <u>hier</u>	adverb
+He lives <u>over there</u>	Hij woont <u>daar</u>	adverb
+We eat <u>now</u>	We eten <u>nu</u>	adverb
+<u>Then</u> we leave	<u>Dan</u> gaan we weg	adverb
+She is <u>always</u> cheerful	Ze is <u>altijd</u> vrolijk	adverb
+I <u>never</u> drink coffee	Ik drink <u>nooit</u> koffie	adverb
+<u>Sometimes</u> it rains hard	<u>Soms</u> regent het hard	adverb
+He <u>often</u> cycles to work	Hij fietst <u>vaak</u> naar het werk	adverb
+She <u>rarely</u> goes out	Ze gaat <u>zelden</u> uit	adverb
+Have you <u>already</u> eaten?	Heb je <u>al</u> gegeten?	adverb
+I am <u>still</u> tired	Ik ben <u>nog</u> moe	adverb
+It is <u>almost</u> ready	Het is <u>bijna</u> klaar	adverb
+It is <u>very</u> good	Dit is <u>heel</u> lekker	adverb
+It is <u>very</u> cold today	Het is <u>erg</u> koud vandaag	adverb
+It is <u>really</u> beautiful	Dit is <u>echt</u> mooi	adverb
+I <u>do</u> want to come	Ik wil <u>wel</u> komen	adverb
+I do <u>not</u> understand	Ik begrijp het <u>niet</u>	adverb
+I <u>also</u> speak French	Ik spreek <u>ook</u> Frans	adverb
+We eat <u>together</u>	We eten <u>samen</u>	adverb
+They live <u>separately</u>	Ze wonen <u>apart</u>	adverb
+I stay <u>at home</u>	Ik blijf <u>thuis</u>	adverb
+The children play <u>outside</u>	De kinderen spelen <u>buiten</u>	adverb
+Come <u>inside</u>!	Kom <u>binnen</u>!	adverb
+The cat is <u>upstairs</u>	De kat zit <u>boven</u>	adverb
+He waits <u>downstairs</u>	Hij wacht <u>beneden</u>	adverb
+She gets up <u>early</u>	Ze staat <u>vroeg</u> op	adverb
+He always arrives <u>late</u>	Hij komt altijd <u>laat</u>	adverb
+I <u>prefer</u> to eat fish	Ik eet <u>liever</u> vis	adverb
+I <u>most prefer</u> to go home	Ik ga <u>het liefst</u> naar huis	adverb
+He <u>maybe</u> comes tomorrow	Hij komt <u>misschien</u> morgen	adverb
+That is <u>certainly</u> true	Dat is <u>zeker</u> waar	adverb
+She is <u>probably</u> sick	Ze is <u>waarschijnlijk</u> ziek	adverb
+<u>Of course</u> I'll help you	<u>Natuurlijk</u> help ik je	adverb
+<u>Unfortunately</u> I can't come	<u>Helaas</u> kan ik niet komen	adverb
+He came <u>anyway</u>	Hij is <u>toch</u> gekomen	adverb
+<u>Just</u> act normal	Doe <u>gewoon</u> normaal	adverb
+<u>Actually</u> you are right	<u>Eigenlijk</u> heb je gelijk	adverb
+It lasts <u>about</u> an hour	Het duurt <u>ongeveer</u> een uur	adverb
+I'm coming <u>right away</u>	Ik kom <u>meteen</u>	adverb
+We'll talk <u>later</u>	We praten <u>straks</u>	adverb
+There are flowers <u>everywhere</u>	Er zijn <u>overal</u> bloemen	adverb
+I can't find my keys <u>anywhere</u>	Ik kan mijn sleutels <u>nergens</u> vinden	adverb
+He lives <u>somewhere</u> in France	Hij woont <u>ergens</u> in Frankrijk	adverb
+He has <u>finally</u> arrived	Hij is <u>eindelijk</u> aangekomen	adverb
+He is late <u>once again</u>	Hij is <u>alweer</u> te laat	adverb
+<u>Moreover</u> it is cheaper	<u>Bovendien</u> is het goedkoper	adverb
+<u>Nevertheless</u> he succeeded	<u>Desondanks</u> is hij geslaagd	adverb
+I exercise <u>daily</u>	Ik sport <u>dagelijks</u>	adverb
+Have you <u>ever</u> eaten sushi?	Heb je <u>ooit</u> sushi gegeten?	adverb
+He is <u>mostly</u> on time	Hij is <u>meestal</u> op tijd	adverb
+<u>Suddenly</u> it started to rain	<u>Plotseling</u> begon het te regenen	adverb
+It is <u>too</u> cold to swim	Het is <u>te</u> koud om te zwemmen	adverb
+<u>Previously</u> I lived in Singapore	<u>Voorheen</u> woonde ik in Singapore	adverb
+<u>From now on</u> I will study every day	<u>Voortaan</u> ga ik elke dag studeren	adverb
+I have lived here <u>since</u> January	Ik woon hier <u>vanaf</u> januari	adverb
+<u>Until when</u> are you staying in Amsterdam?	<u>Tot wanneer</u> blijf je in Amsterdam?	adverb
+I want to <u>become</u> a doctor	Ik wil dokter <u>worden</u>	verb
+I <u>choose</u> the red one	Ik <u>kies</u> de rode	verb
+I <u>learn</u> Dutch	Ik <u>leer</u> Nederlands	verb
+I <u>lost</u> my keys	Ik ben mijn sleutels <u>kwijt</u>	adjective
+Nice to <u>meet</u> you!	Leuk je te <u>ontmoeten</u>!	verb
+I <u>try</u>!	Ik <u>probeer</u> het!	verb
+I <u>adapt</u> well	Ik <u>pas</u> me wel <u>aan</u>	verb
+We <u>chatted</u> all evening	We hebben de hele avond <u>gepraat</u>	verb
+What did he <u>say</u>?	Wat <u>zei</u> hij?	verb
+He <u>told</u> a story	Hij <u>vertelde</u> een verhaal	verb
+He <u>spoke</u> slowly	Hij <u>sprak</u> langzaam	verb
+Nice to <u>get to know</u> you!	Leuk je te <u>leren kennen</u>!	verb
+I don't <u>know</u>	Ik <u>weet</u> het niet	verb
+I am <u>busy</u> with my homework	Ik ben <u>bezig</u> met mijn huiswerk	adjective
+I <u>forgot</u> my umbrella	Ik ben mijn paraplu <u>vergeten</u>	verb
+I have to <u>finish</u> my homework	Ik moet mijn huiswerk <u>afmaken</u>	verb
+I don't <u>remember</u> his name	Ik <u>herinner</u> me zijn naam niet	verb
+I <u>hope</u> everything goes well	Ik <u>hoop</u> dat het goed gaat	verb
+I want to <u>tell</u> you about my day yesterday	Ik wil je <u>vertellen</u> over mijn dag van gisteren	verb sentence
+<u>There were</u> not many people	<u>Er waren</u> niet veel mensen	verb sentence
+I want to <u>go home</u>	Ik wil <u>naar huis gaan</u>	verb
+It started to <u>rain</u>	Het begon te <u>regenen</u>	verb
+The tree is very <u>big</u>	De boom is heel <u>groot</u>	adjective
+My hand is <u>small</u>	Mijn hand is <u>klein</u>	adjective
+The station is <u>nearby</u>	Het station is <u>dichtbij</u>	adjective
+The village is <u>far</u>	Het dorp is <u>ver</u>	adjective
+The train is <u>fast</u>	De trein is <u>snel</u>	adjective
+The turtle is <u>slow</u>	De schildpad is <u>langzaam</u>	adjective
+The weather is <u>good</u>	Het weer is <u>goed</u>	adjective
+The weather is <u>bad</u>	Het weer is <u>slecht</u>	adjective
+I have a <u>new</u> car	Ik heb een <u>nieuwe</u> auto	adjective
+This house is <u>old</u>	Dit huis is <u>oud</u>	adjective
+The cat is <u>young</u>	De kat is <u>jong</u>	adjective
+The street is <u>long</u>	De straat is <u>lang</u>	adjective
+The story is <u>short</u>	Het verhaal is <u>kort</u>	adjective
+The mountain is <u>high</u>	De berg is <u>hoog</u>	adjective
+The price is <u>low</u>	De prijs is <u>laag</u>	adjective
+The flower is <u>beautiful</u>	De bloem is <u>mooi</u>	adjective
+This building is <u>ugly</u>	Dit gebouw is <u>lelijk</u>	adjective
+The man is <u>strong</u>	De man is <u>sterk</u>	adjective
+The signal is <u>weak</u>	Het signaal is <u>zwak</u>	adjective
+The stone is <u>hard</u>	De steen is <u>hard</u>	adjective
+The pillow is <u>soft</u>	Het kussen is <u>zacht</u>	adjective
+The soup is <u>hot</u>	De soep is <u>warm</u>	adjective
+The water is <u>cold</u>	Het water is <u>koud</u>	adjective
+The air is <u>dry</u>	De lucht is <u>droog</u>	adjective
+My hair is <u>wet</u>	Mijn haar is <u>nat</u>	adjective
+The suitcase is <u>heavy</u>	De koffer is <u>zwaar</u>	adjective
+The feather is <u>light</u>	De veer is <u>licht</u>	adjective
+The room is <u>dark</u>	De kamer is <u>donker</u>	adjective
+The king is <u>rich</u>	De koning is <u>rijk</u>	adjective
+The family is <u>poor</u>	De familie is <u>arm</u>	adjective
+She is <u>happy</u>	Zij is <u>gelukkig</u>	adjective
+The child is <u>sad</u>	Het kind is <u>verdrietig</u>	adjective
+I am <u>tired</u> after work	Ik ben <u>moe</u> na het werk	adjective
+He is <u>sick</u> today	Hij is <u>ziek</u> vandaag	adjective
+The baby is <u>healthy</u>	De baby is <u>gezond</u>	adjective
+The music is <u>cheerful</u>	De muziek is <u>vrolijk</u>	adjective
+The village is <u>quiet</u>	Het dorp is <u>rustig</u>	adjective
+The city is <u>busy</u>	De stad is <u>druk</u>	adjective
+The party is <u>fun</u>	Het feest is <u>leuk</u>	adjective
+The bottle is <u>empty</u>	De fles is <u>leeg</u>	adjective
+The bag is <u>full</u>	De zak is <u>vol</u>	adjective
+This watch is <u>expensive</u>	Dit horloge is <u>duur</u>	adjective
+The shoes are <u>cheap</u>	De schoenen zijn <u>goedkoop</u>	adjective
+The river is <u>wide</u>	De rivier is <u>breed</u>	adjective
+The path is <u>narrow</u>	Het pad is <u>smal</u>	adjective
+The lake is <u>deep</u>	Het meer is <u>diep</u>	adjective
+The puddle is <u>shallow</u>	De plas is <u>ondiep</u>	adjective
+The wall is <u>thick</u>	De muur is <u>dik</u>	adjective
+The paper is <u>thin</u>	Het papier is <u>dun</u>	adjective
+The student is <u>smart</u>	De student is <u>slim</u>	adjective
+That was a <u>stupid</u> mistake	Dat was een <u>domme</u> fout	adjective
+The meeting is <u>important</u>	De vergadering is <u>belangrijk</u>	adjective
+This is an <u>easy</u> lesson	Dit is een <u>makkelijke</u> les	adjective
+The test is very <u>difficult</u>	De test is erg <u>moeilijk</u>	adjective
+This book is very <u>interesting</u>	Dit boek is heel <u>interessant</u>	adjective
+The movie was <u>boring</u>	De film was <u>saai</u>	adjective
+She is always dressed <u>elegantly</u>	Zij is altijd <u>elegant</u> gekleed	adjective
+His room is always <u>messy</u>	Zijn kamer is altijd <u>slordig</u>	adjective
+It is <u>apparently</u> already closed	Het is <u>blijkbaar</u> al gesloten	adverb
+I am <u>afraid</u> of spiders	Ik ben <u>bang</u> voor spinnen	adjective
+This book is <u>fun</u>, but that one is <u>more fun</u>, and this one is <u>the most fun</u>	Dit boek is <u>leuk</u>, maar dat boek is <u>leuker</u>, en dit is het <u>leukst</u>	adjective
+<u>Courage</u> / <u>courageous</u> / <u>(dis)courage</u>	<u>Moed</u> = courage, <u>moedig</u> = courageous<br><u>Aanmoedigen</u> = to encourage<br><u>Ontmoedigen</u> = to discourage<br><u>Ontmoedigd</u> = discouraged<br><u>Ontmoediging</u> = discouragement	expression
+I <u>can</u> swim well	Ik <u>kan</u> goed zwemmen	verb
+I <u>want</u> a coffee	Ik <u>wil</u> een kopje koffie	verb
+You are <u>not allowed</u> to smoke here	Je <u>mag</u> hier niet roken	verb
+You <u>must</u> do your homework	Je <u>moet</u> je huiswerk maken	verb
+It <u>will</u> rain tomorrow	Het <u>zal</u> morgen regenen	verb
+You don't <u>need</u> to pay	Je <u>hoeft</u> niet te betalen	verb
+Do you <u>find</u> it <u>nice</u>?	<u>Vind</u> jij het <u>leuk</u>?	verb sentence
+I like <u>carrots</u>	Ik hou van <u>wortels</u>	noun
+This is a <u>simple</u> problem	Dit is een <u>eenvoudig</u> probleem	adjective
+They are <u>at their best</u> in the morning	Ze zijn <u>op hun best</u> in de ochtend	expression
+<u>In any case</u>, I support you	<u>Hoe dan ook</u>, ik steun je	expression
+The <u>family</u> (<u>parents</u>, <u>brother</u>, <u>sister</u>)	<u>Ouders</u> = parents, <u>vader</u> = father, <u>moeder</u> = mother<br><u>Broer</u> = brother, <u>zus</u> = sister	noun family
+<u>Who</u> is that?	<u>Wie</u> is dat?	question
+<u>What</u> do you want to eat?	<u>Wat</u> wil je eten?	question
+<u>Where</u> do you live?	<u>Waar</u> woon je?	question
+<u>When</u> are you coming?	<u>Wanneer</u> kom je?	question
+<u>Why</u> are you late?	<u>Waarom</u> ben je laat?	question
+<u>How</u> are you?	<u>Hoe</u> gaat het met je?	question
+<u>Which</u> train do you take?	<u>Welke</u> trein neem jij?	question
+<u>How much</u> does it cost?	<u>Hoeveel</u> kost dat?	question
+<u>Whose</u> bag is this?	Van <u>wie</u> is deze tas?	question
+<u>Where</u> are you <u>from</u>?	<u>Waar</u> kom je <u>vandaan</u>?	question
+<u>Where</u> are you going on holiday?	<u>Waarheen</u> ga je op vakantie?	question
+<u>With what</u> do you write?	<u>Waarmee</u> schrijf je?	question
+<u>About what</u> are you talking?	<u>Waarover</u> praat je?	question
+<u>What for</u> is that?	<u>Waarvoor</u> is dat?	question
+<u>Whose</u> book is this?	Van <u>wie</u> is dit boek?	question
+<u>Where</u> does it come <u>from</u>?	<u>Waaruit</u> komt het?	question
+<u>How long</u> does it last?	<u>Hoe lang</u> duurt het?	question
+<u>What time</u> are you coming?	<u>Hoe laat</u> kom je?	question
+<u>Weak</u> / <u>strong</u> / <u>modal</u> verbs	<b>Zwakke werkwoorden:</b> werken, maken, praten, fietsen, wonen<br><b>Sterke werkwoorden:</b> spreken, schrijven, rijden, geven, nemen<br><b>Modale werkwoorden:</b> kunnen, willen, mogen, moeten, zullen, hoeven	verb grammar reference
+<u>My</u> bike is broken	<u>Mijn</u> fiets is kapot	pronoun possessive
+<u>Your</u> coffee is ready	<u>Jouw</u> koffie is klaar	pronoun possessive
+<u>His</u> dog is big	<u>Zijn</u> hond is groot	pronoun possessive
+<u>Her</u> cat is cute	<u>Haar</u> kat is lief	pronoun possessive
+<u>Our</u> house is big	<u>Ons</u> huis is groot	pronoun possessive
+<u>Our</u> car is new	<u>Onze</u> auto is nieuw	pronoun possessive
+<u>Your</u> garden is beautiful (plural)	<u>Jullie</u> tuin is mooi	pronoun possessive
+<u>Your</u> order is ready (formal)	<u>Uw</u> bestelling is klaar	pronoun possessive
+<u>Their</u> son lives in Amsterdam	<u>Hun</u> zoon woont in Amsterdam	pronoun possessive
+He sees <u>me</u>	Hij ziet <u>mij</u>	pronoun personal
+I know <u>you</u>	Ik ken <u>jou</u>	pronoun personal
+I understand <u>him</u>	Ik begrijp <u>hem</u>	pronoun personal
+I'm looking for <u>her</u>	Ik zoek <u>haar</u>	pronoun personal
+I find <u>it</u> strange (het-woord)	Ik vind <u>het</u> vreemd	pronoun personal
+He helps <u>us</u>	Hij helpt <u>ons</u>	pronoun personal
+I thank <u>you</u> (formal)	Ik dank <u>u</u>	pronoun personal
+I'm inviting <u>them</u> tonight	Ik nodig <u>hen</u> vanavond uit	pronoun personal
