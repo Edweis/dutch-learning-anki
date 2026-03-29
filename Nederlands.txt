@@ -200,3 +200,20 @@ I showed my masterpiece to the grown-ups	Ik liet mijn meesterwerk aan de grote m
 To talk	We <u>praten</u> over het weer.	verb
 To tell	Hij <u>vertelt</u> een verhaal aan de kinderen.	verb
 To speak	Zij <u>spreekt</u> drie talen.	verb
+To know (a fact)	Ik <u>weet</u> niet waar hij woont.	verb
+Shall we...?	<u>Zullen</u> we gaan?	verb
+To drop by / to walk up to	Ik kwam haar toevallig <u>aanlopen</u> op straat.	verb
+One (informal)	Wil je er <u>eentje</u>?	pronoun
+Chair & table	De <u>stoel</u> staat naast de <u>tafel</u>.	noun
+Nice / kind	Ze is een heel <u>aardig</u> meisje.	adjective
+A man and a woman	Een <u>man</u> en een <u>vrouw</u>.	noun
+Incompetent	Hij is een <u>onbekwame</u> manager.	adjective
+Last / latest	Dit is de <u>laatste</u> keer dat ik het vraag.	adjective
+Scared / afraid	Ik ben <u>bang</u> voor spinnen.	adjective
+Scary / creepy	Die film was echt <u>eng</u>.	adjective
+Useful	Dit boek is heel <u>nuttig</u>.	adjective
+Numbers 1–10	<u>één</u>, <u>twee</u>, <u>drie</u>, <u>vier</u>, <u>vijf</u>, <u>zes</u>, <u>zeven</u>, <u>acht</u>, <u>negen</u>, <u>tien</u>	reference
+Days of the week	<u>maandag</u>, <u>dinsdag</u>, <u>woensdag</u>, <u>donderdag</u>, <u>vrijdag</u>, <u>zaterdag</u>, <u>zondag</u>	reference
+Do you ever go to the museum?	Ga je <u>weleens</u> naar het museum?	adverb question
+als = when (repeated/future), toen = when (single past event)	<u>Als</u> het regent, neem ik een paraplu. <u>Toen</u> ik klein was, woonde ik in Parijs.	grammar
+Men, women, people	De <u>mannen</u> en de <u>vrouwen</u> zijn <u>mensen</u>.	noun
