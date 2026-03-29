@@ -191,27 +191,27 @@ He helps <u>us</u>	Hij helpt <u>ons</u>	pronoun personal
 I thank <u>you</u> (formal)	Ik dank <u>u</u>	pronoun personal
 I'm inviting <u>them</u> tonight	Ik nodig <u>hen</u> vanavond uit	pronoun personal
 When I was six... (toen ik zes was...)	<u>Toen</u> ik zes was, zag ik een prachtig plaatje.	sentence expression de-kleine-prins-chapter-1
-To draw	Ik wilde leren <u>tekenen</u>.	verb de-kleine-prins-chapter-1
+I wanted to learn to draw.	Ik wilde leren <u>tekenen</u>.	verb sentence de-kleine-prins-chapter-1
 The jungle	De <u>jungle</u> is vol wilde dieren.	noun de-kleine-prins-chapter-1
 The drawing looked like this	De <u>tekening</u> zag er zo uit.	sentence noun de-kleine-prins-chapter-1
 This/that (dit/deze = this for het/de words, dat/die = that for het/de words)	<u>Dit</u> boek is mooi. / <u>Deze</u> man is groot. / <u>Dat</u> huis is oud. / <u>Die</u> vrouw is aardig.	pronoun grammar reference de-kleine-prins-chapter-1
 First, second... tenth (ordinal numbers)	<u>eerste</u>, <u>tweede</u>, <u>derde</u>, <u>vierde</u>, <u>vijfde</u>, <u>zesde</u>, <u>zevende</u>, <u>achtste</u>, <u>negende</u>, <u>tiende</u>	reference grammar de-kleine-prins-chapter-1
 I showed my masterpiece to the grown-ups	Ik liet mijn meesterwerk aan de grote mensen <u>zien</u>.	sentence verb de-kleine-prins-chapter-1
-To talk	We <u>praten</u> over het weer.	verb
-To tell	Hij <u>vertelt</u> een verhaal aan de kinderen.	verb
-To speak	Zij <u>spreekt</u> drie talen.	verb
-To know (a fact)	Ik <u>weet</u> niet waar hij woont.	verb
-Shall we...?	<u>Zullen</u> we gaan?	verb
-To drop by / to walk up to	Ik kwam haar toevallig <u>aanlopen</u> op straat.	verb
-One (informal)	Wil je er <u>eentje</u>?	pronoun
-Chair & table	De <u>stoel</u> staat naast de <u>tafel</u>.	noun
-Nice / kind	Ze is een heel <u>aardig</u> meisje.	adjective
-A man and a woman	Een <u>man</u> en een <u>vrouw</u>.	noun
-Incompetent	Hij is een <u>onbekwame</u> manager.	adjective
-Last / latest	Dit is de <u>laatste</u> keer dat ik het vraag.	adjective
-Scared / afraid	Ik ben <u>bang</u> voor spinnen.	adjective
-Scary / creepy	Die film was echt <u>eng</u>.	adjective
-Useful	Dit boek is heel <u>nuttig</u>.	adjective
+We talk about the weather.	We <u>praten</u> over het weer.	verb sentence
+He tells a story to the children.	Hij <u>vertelt</u> een verhaal aan de kinderen.	verb sentence
+She speaks three languages.	Zij <u>spreekt</u> drie talen.	verb sentence
+I don't know where he lives.	Ik <u>weet</u> niet waar hij woont.	verb sentence
+Shall we go?	<u>Zullen</u> we gaan?	verb sentence
+I happened to run into her on the street.	Ik kwam haar toevallig <u>aanlopen</u> op straat.	verb sentence
+Do you want one?	Wil je er <u>eentje</u>?	pronoun sentence
+The chair is next to the table.	De <u>stoel</u> staat naast de <u>tafel</u>.	noun sentence
+She is a very nice girl.	Ze is een heel <u>aardig</u> meisje.	adjective sentence
+A man and a woman.	Een <u>man</u> en een <u>vrouw</u>.	noun sentence
+He is an incompetent manager.	Hij is een <u>onbekwame</u> manager.	adjective sentence
+This is the last time I'm asking.	Dit is de <u>laatste</u> keer dat ik het vraag.	adjective sentence
+I am scared of spiders.	Ik ben <u>bang</u> voor spinnen.	adjective sentence
+That movie was really scary.	Die film was echt <u>eng</u>.	adjective sentence
+This book is very useful.	Dit boek is heel <u>nuttig</u>.	adjective sentence
 Numbers 1–10	<u>één</u>, <u>twee</u>, <u>drie</u>, <u>vier</u>, <u>vijf</u>, <u>zes</u>, <u>zeven</u>, <u>acht</u>, <u>negen</u>, <u>tien</u>	reference
 Days of the week	<u>maandag</u>, <u>dinsdag</u>, <u>woensdag</u>, <u>donderdag</u>, <u>vrijdag</u>, <u>zaterdag</u>, <u>zondag</u>	reference
 Do you ever go to the museum?	Ga je <u>weleens</u> naar het museum?	adverb question
