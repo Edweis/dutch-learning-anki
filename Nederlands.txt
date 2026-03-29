@@ -37,15 +37,15 @@ She is <u>probably</u> sick	Ze is <u>waarschijnlijk</u> ziek	adverb
 <u>Of course</u> I'll help you	<u>Natuurlijk</u> help ik je	adverb
 <u>Unfortunately</u> I can't come	<u>Helaas</u> kan ik niet komen	adverb
 He came <u>anyway</u>	Hij is <u>toch</u> gekomen	adverb
-<u>Just</u> act normal	Doe <u>gewoon</u> normaal	adverb
+<u>Just</u> act normal	Doe <u>gewoon</u> normaal (wennen = get used to)	adverb
 <u>Actually</u> you are right	<u>Eigenlijk</u> heb je gelijk	adverb
-It lasts <u>about</u> an hour	Het duurt <u>ongeveer</u> een uur	adverb
+It lasts <u>about</u> an hour	Het duurt <u>ongeveer</u> een uur (om = around, ge- prefix, veer = distance)	adverb
 I'm coming <u>right away</u>	Ik kom <u>meteen</u>	adverb
-We'll talk <u>later</u>	We praten <u>straks</u>	adverb
+We'll talk <u>later</u> (later today)	We praten <u>straks</u>	adverb
 There are flowers <u>everywhere</u>	Er zijn <u>overal</u> bloemen	adverb
 I can't find my keys <u>anywhere</u>	Ik kan mijn sleutels <u>nergens</u> vinden	adverb
 He lives <u>somewhere</u> in France	Hij woont <u>ergens</u> in Frankrijk	adverb
-He has <u>finally</u> arrived	Hij is <u>eindelijk</u> aangekomen	adverb
+He has <u>finally</u> arrived	Hij is <u>eindelijk</u> aangekomen (einde = end)	adverb
 He is late <u>once again</u>	Hij is <u>alweer</u> te laat	adverb
 <u>Moreover</u> it is cheaper	<u>Bovendien</u> is het goedkoper	adverb
 <u>Nevertheless</u> he succeeded	<u>Desondanks</u> is hij geslaagd	adverb
@@ -197,3 +197,6 @@ The drawing looked like this	De <u>tekening</u> zag er zo uit.	sentence noun de-
 This/that (dit/deze = this for het/de words, dat/die = that for het/de words)	<u>Dit</u> boek is mooi. / <u>Deze</u> man is groot. / <u>Dat</u> huis is oud. / <u>Die</u> vrouw is aardig.	pronoun grammar reference de-kleine-prins-chapter-1
 First, second... tenth (ordinal numbers)	<u>eerste</u>, <u>tweede</u>, <u>derde</u>, <u>vierde</u>, <u>vijfde</u>, <u>zesde</u>, <u>zevende</u>, <u>achtste</u>, <u>negende</u>, <u>tiende</u>	reference grammar de-kleine-prins-chapter-1
 I showed my masterpiece to the grown-ups	Ik liet mijn meesterwerk aan de grote mensen <u>zien</u>.	sentence verb de-kleine-prins-chapter-1
+To talk	We <u>praten</u> over het weer.	verb
+To tell	Hij <u>vertelt</u> een verhaal aan de kinderen.	verb
+To speak	Zij <u>spreekt</u> drie talen.	verb
