@@ -14,7 +14,7 @@ She <u>rarely</u> goes out	Ze gaat <u>zelden</u> uit	adverb
 Have you <u>already</u> eaten?	Heb je <u>al</u> gegeten?	adverb
 I am <u>still</u> tired	Ik ben <u>nog</u> moe	adverb
 It is <u>almost</u> ready	Het is <u>bijna</u> klaar	adverb
-It is <u>very</u> good	Dit is <u>heel</u> lekker	adverb
+This is very <u>tasty</u>	Dit is heel <u>lekker</u>	adverb
 It is <u>very</u> cold today	Het is <u>erg</u> koud vandaag	adverb
 It is <u>really</u> beautiful	Dit is <u>echt</u> mooi	adverb
 I <u>do</u> want to come	Ik wil <u>wel</u> komen	adverb
@@ -37,7 +37,7 @@ She is <u>probably</u> sick	Ze is <u>waarschijnlijk</u> ziek	adverb
 <u>Of course</u> I'll help you	<u>Natuurlijk</u> help ik je	adverb
 <u>Unfortunately</u> I can't come	<u>Helaas</u> kan ik niet komen	adverb
 He came <u>anyway</u>	Hij is <u>toch</u> gekomen	adverb
-<u>Just</u> act normal	Doe <u>gewoon</u> normaal (wennen = get used to)	adverb
+<u>Just</u> act normal	Doe <u>gewoon</u> normaal	adverb
 <u>Actually</u> you are right	<u>Eigenlijk</u> heb je gelijk	adverb
 It lasts <u>about</u> an hour	Het duurt <u>ongeveer</u> een uur (om = around, ge- prefix, veer = distance)	adverb
 I'm coming <u>right away</u>	Ik kom <u>meteen</u>	adverb
@@ -101,7 +101,7 @@ The man is <u>strong</u>	De man is <u>sterk</u>	adjective
 The signal is <u>weak</u>	Het signaal is <u>zwak</u>	adjective
 The stone is <u>hard</u>	De steen is <u>hard</u>	adjective
 The pillow is <u>soft</u>	Het kussen is <u>zacht</u>	adjective
-The soup is <u>hot</u>	De soep is <u>warm</u>	adjective
+The soup is <u>hot</u>	De soep is <u>heet</u>	adjective
 The water is <u>cold</u>	Het water is <u>koud</u>	adjective
 The air is <u>dry</u>	De lucht is <u>droog</u>	adjective
 My hair is <u>wet</u>	Mijn haar is <u>nat</u>	adjective
@@ -209,7 +209,6 @@ She is a very nice girl.	Ze is een heel <u>aardig</u> meisje.	adjective sentence
 A man and a woman.	Een <u>man</u> en een <u>vrouw</u>.	noun sentence
 He is an incompetent manager.	Hij is een <u>onbekwame</u> manager.	adjective sentence
 This is the last time I'm asking.	Dit is de <u>laatste</u> keer dat ik het vraag.	adjective sentence
-I am scared of spiders.	Ik ben <u>bang</u> voor spinnen.	adjective sentence
 That movie was really scary.	Die film was echt <u>eng</u>.	adjective sentence
 This book is very useful.	Dit boek is heel <u>nuttig</u>.	adjective sentence
 Numbers 1–10	<u>één</u>, <u>twee</u>, <u>drie</u>, <u>vier</u>, <u>vijf</u>, <u>zes</u>, <u>zeven</u>, <u>acht</u>, <u>negen</u>, <u>tien</u>	reference
@@ -307,7 +306,7 @@ I wrote him a letter.	Ik heb hem een <u>brief</u> geschreven.	noun sentence
 The road is long.	De <u>weg</u> is lang.	noun sentence
 The weather is nice today.	Het <u>weer</u> is vandaag mooi.	noun sentence
 The sun is shining.	De <u>zon</u> schijnt.	noun sentence
-It's raining again.	De <u>regen</u> is er weer.	noun sentence
+It's raining again.	Het <u>regent</u> weer.	verb sentence
 I have a dog and a cat.	Ik heb een <u>hond</u> en een <u>kat</u>.	noun sentence
 The trees are green in spring.	De <u>bomen</u> zijn groen in de lente.	noun sentence
 She gave me a flower.	Zij gaf mij een <u>bloem</u>.	noun sentence
@@ -374,3 +373,5 @@ I prefer light blue.	Ik heb liever <u>lichtblauw</u>.	adjective sentence color
 She has dark green eyes.	Zij heeft <u>donkergroene</u> ogen.	adjective sentence color
 Months of the year	<u>januari</u>, <u>februari</u>, <u>maart</u>, <u>april</u>, <u>mei</u>, <u>juni</u>, <u>juli</u>, <u>augustus</u>, <u>september</u>, <u>oktober</u>, <u>november</u>, <u>december</u>	reference
 The four seasons	<u>lente</u> (spring), <u>zomer</u> (summer), <u>herfst</u> (autumn), <u>winter</u> (winter)	reference
+The weather is <u>warm</u> today.	Het weer is vandaag <u>warm</u>.	adjective sentence
+It is <u>freezing</u> outside.	Het is <u>ijskoud</u> buiten.	adjective sentence
