@@ -217,3 +217,160 @@ Days of the week	<u>maandag</u>, <u>dinsdag</u>, <u>woensdag</u>, <u>donderdag</
 Do you ever go to the museum?	Ga je <u>weleens</u> naar het museum?	adverb question
 als = when (repeated/future), toen = when (single past event)	<u>Als</u> het regent, neem ik een paraplu. <u>Toen</u> ik klein was, woonde ik in Parijs.	grammar
 Men, women, people	De <u>mannen</u> en de <u>vrouwen</u> zijn <u>mensen</u>.	noun
+I am happy today.	Ik <u>ben</u> vandaag blij.	verb sentence
+I have two brothers.	Ik <u>heb</u> twee broers.	verb sentence
+She comes from Belgium.	Zij <u>komt</u> uit België.	verb sentence
+What are you doing?	Wat <u>doe</u> je?	verb sentence
+I made dinner for everyone.	Ik heb het avondeten voor iedereen <u>gemaakt</u>.	verb sentence
+Can you give me the salt?	Kun je mij het zout <u>geven</u>?	verb sentence
+Take a seat, please.	<u>Neem</u> alsjeblieft plaats.	verb sentence
+I think it's a good idea.	Ik <u>denk</u> dat het een goed idee is.	verb sentence
+The house stands on the corner.	Het huis <u>staat</u> op de hoek.	verb sentence
+The cat is sitting on the couch.	De kat <u>zit</u> op de bank.	verb sentence
+The book is lying on the table.	Het boek <u>ligt</u> op de tafel.	verb sentence
+I walk to school every day.	Ik <u>loop</u> elke dag naar school.	verb sentence
+She drives to work.	Zij <u>rijdt</u> naar haar werk.	verb sentence
+Let me help you.	<u>Laat</u> mij je helpen.	verb sentence
+I love chocolate.	Ik <u>hou</u> van chocolade.	verb sentence
+We stay home tonight.	We <u>blijven</u> vanavond thuis.	verb sentence
+She writes a letter.	Zij <u>schrijft</u> een brief.	verb sentence
+I read the newspaper every morning.	Ik <u>lees</u> elke ochtend de krant.	verb sentence
+Can I ask you something?	Mag ik je iets <u>vragen</u>?	verb sentence
+I work at a hospital.	Ik <u>werk</u> in een ziekenhuis.	verb sentence
+I live in Amsterdam.	Ik <u>woon</u> in Amsterdam.	verb sentence
+He lives a happy life.	Hij <u>leeft</u> een gelukkig leven.	verb sentence
+We eat together on Sunday.	We <u>eten</u> samen op zondag.	verb sentence
+I drink coffee in the morning.	Ik <u>drink</u> 's ochtends koffie.	verb sentence
+The children are sleeping.	De kinderen <u>slapen</u>.	verb sentence
+I want to buy a new bike.	Ik wil een nieuwe fiets <u>kopen</u>.	verb sentence
+When does the meeting start?	Wanneer <u>begint</u> de vergadering?	verb sentence
+I believe you.	Ik <u>geloof</u> je.	verb sentence
+Can you help me?	Kun je mij <u>helpen</u>?	verb sentence
+He brings flowers for his mother.	Hij <u>brengt</u> bloemen voor zijn moeder.	verb sentence
+I'm looking for my keys.	Ik <u>zoek</u> mijn sleutels.	verb sentence
+I feel tired today.	Ik <u>voel</u> me moe vandaag.	verb sentence
+Did you hear that?	<u>Hoorde</u> je dat?	verb sentence
+I'm watching a movie tonight.	Ik <u>kijk</u> vanavond naar een film.	verb sentence
+Listen carefully!	<u>Luister</u> goed!	verb sentence
+The children are playing outside.	De kinderen <u>spelen</u> buiten.	verb sentence
+Wait here for a moment.	<u>Wacht</u> hier even.	verb sentence
+I don't understand the question.	Ik <u>begrijp</u> de vraag niet.	verb sentence
+Stop talking!	<u>Stop</u> met praten!	verb sentence
+I use this app every day.	Ik <u>gebruik</u> deze app elke dag.	verb sentence
+What does this word mean?	Wat <u>betekent</u> dit woord?	verb sentence
+Everything changes.	Alles <u>verandert</u>.	verb sentence
+Open the door, please.	<u>Open</u> alsjeblieft de deur.	verb sentence
+The shop closes at six.	De winkel <u>sluit</u> om zes uur.	verb sentence
+Put the cup on the table.	<u>Zet</u> het kopje op de tafel.	verb sentence
+Lay the book on the shelf.	<u>Leg</u> het boek op de plank.	verb sentence
+She fell on the ice.	Zij <u>viel</u> op het ijs.	verb sentence
+They call him Piet.	Ze <u>noemen</u> hem Piet.	verb sentence
+I follow the news every day.	Ik <u>volg</u> elke dag het nieuws.	verb sentence
+I sent him a message.	Ik heb hem een bericht <u>gestuurd</u>.	verb sentence
+We bought a new house.	We hebben een nieuw <u>huis</u> gekocht.	noun sentence
+The water is cold.	Het <u>water</u> is koud.	noun sentence
+Amsterdam is a beautiful city.	Amsterdam is een mooie <u>stad</u>.	noun sentence
+In which country do you live?	In welk <u>land</u> woon je?	noun sentence
+The children go to school.	De kinderen gaan naar <u>school</u>.	noun sentence
+I have a lot of work today.	Ik heb vandaag veel <u>werk</u>.	noun sentence
+The child is playing outside.	Het <u>kind</u> speelt buiten.	noun sentence
+This book is very interesting.	Dit <u>boek</u> is heel interessant.	noun sentence
+My car is broken.	Mijn <u>auto</u> is kapot.	noun sentence
+I go everywhere by bike.	Ik ga overal met de <u>fiets</u>.	noun sentence
+The train is late again.	De <u>trein</u> is weer te laat.	noun sentence
+I live on a quiet street.	Ik woon in een rustige <u>straat</u>.	noun sentence
+The shop is closed on Sunday.	De <u>winkel</u> is op zondag gesloten.	noun sentence
+Close the door, please.	Doe de <u>deur</u> dicht, alsjeblieft.	noun sentence
+The window is open.	Het <u>raam</u> staat open.	noun sentence
+My room is small but cozy.	Mijn <u>kamer</u> is klein maar gezellig.	noun sentence
+The kitchen smells good.	De <u>keuken</u> ruikt lekker.	noun sentence
+We sit in the garden in summer.	We zitten in de zomer in de <u>tuin</u>.	noun sentence
+The food is delicious.	Het <u>eten</u> is heerlijk.	noun sentence
+I eat bread for breakfast.	Ik eet <u>brood</u> als ontbijt.	noun sentence
+Dutch cheese is famous.	Nederlandse <u>kaas</u> is beroemd.	noun sentence
+I drink a glass of milk.	Ik drink een glas <u>melk</u>.	noun sentence
+Do you want coffee or tea?	Wil je <u>koffie</u> of <u>thee</u>?	noun sentence
+A beer, please.	Een <u>bier</u>, alstublieft.	noun sentence
+I have no time.	Ik heb geen <u>tijd</u>.	noun sentence
+The year has twelve months.	Het <u>jaar</u> heeft twaalf maanden.	noun sentence
+Next week I'm on holiday.	Volgende <u>week</u> ben ik op vakantie.	noun sentence
+It was a beautiful day.	Het was een mooie <u>dag</u>.	noun sentence
+It takes about an hour.	Het duurt ongeveer een <u>uur</u>.	noun sentence
+What is your name?	Wat is je <u>naam</u>?	noun sentence
+She is a good friend.	Zij is een goede <u>vriend</u>in.	noun sentence
+I have a headache.	Ik heb <u>hoofd</u>pijn.	noun sentence
+Give me your hand.	Geef me je <u>hand</u>.	noun sentence
+She has blue eyes.	Zij heeft blauwe <u>ogen</u>.	noun sentence
+He has a good heart.	Hij heeft een goed <u>hart</u>.	noun sentence
+I have no money left.	Ik heb geen <u>geld</u> meer.	noun sentence
+I wrote him a letter.	Ik heb hem een <u>brief</u> geschreven.	noun sentence
+The road is long.	De <u>weg</u> is lang.	noun sentence
+The weather is nice today.	Het <u>weer</u> is vandaag mooi.	noun sentence
+The sun is shining.	De <u>zon</u> schijnt.	noun sentence
+It's raining again.	De <u>regen</u> is er weer.	noun sentence
+I have a dog and a cat.	Ik heb een <u>hond</u> en een <u>kat</u>.	noun sentence
+The trees are green in spring.	De <u>bomen</u> zijn groen in de lente.	noun sentence
+She gave me a flower.	Zij gaf mij een <u>bloem</u>.	noun sentence
+I have a question for you.	Ik heb een <u>vraag</u> voor je.	noun sentence
+The answer is simple.	Het <u>antwoord</u> is simpel.	noun sentence
+That is not a problem.	Dat is geen <u>probleem</u>.	noun sentence
+He works at the hospital.	Hij werkt in het <u>ziekenhuis</u>.	noun sentence
+The painting hangs above the couch.	Het schilderij hangt <u>boven</u> de bank.	preposition sentence
+The cat is under the table.	De kat zit <u>onder</u> de tafel.	preposition sentence
+Turn left at the traffic light.	Sla <u>links</u>af bij het stoplicht.	adverb sentence
+The supermarket is on the right.	De supermarkt is aan de <u>rechter</u>kant.	adverb sentence
+The car is in front of the house.	De auto staat <u>voor</u> het huis.	preposition sentence
+The garden is behind the house.	De tuin is <u>achter</u> het huis.	preposition sentence
+She sits next to me.	Zij zit <u>naast</u> mij.	preposition sentence
+The shop is between the bank and the bakery.	De winkel is <u>tussen</u> de bank en de bakkerij.	preposition sentence
+The book is on the table.	Het boek ligt <u>op</u> de tafel.	preposition sentence
+The milk is in the fridge.	De melk staat <u>in</u> de koelkast.	preposition sentence
+The painting hangs on the wall.	Het schilderij hangt <u>aan</u> de muur.	preposition sentence
+I'm at the doctor.	Ik ben <u>bij</u> de dokter.	preposition sentence
+I'm going to the station.	Ik ga <u>naar</u> het station.	preposition sentence
+He comes from Germany.	Hij komt <u>uit</u> Duitsland.	preposition sentence
+I go with the bus.	Ik ga <u>met</u> de bus.	preposition sentence
+I drink coffee without sugar.	Ik drink koffie <u>zonder</u> suiker.	preposition sentence
+We talked about the holiday.	We praatten <u>over</u> de vakantie.	preposition sentence
+He walked through the park.	Hij liep <u>door</u> het park.	preposition sentence
+I lean against the wall.	Ik leun <u>tegen</u> de muur.	preposition sentence
+We walked along the canal.	We liepen <u>langs</u> de gracht.	preposition sentence
+We sat around the table.	We zaten <u>om</u> de tafel.	preposition sentence
+From the station it's five minutes.	<u>Vanaf</u> het station is het vijf minuten.	preposition sentence
+The shop is open from nine to five.	De winkel is open van negen <u>tot</u> vijf.	preposition sentence
+He jumped from the bridge into the water.	Hij sprong van de brug <u>in</u> het water.	preposition sentence
+The ball flew over the fence.	De bal vloog <u>over</u> het hek.	preposition sentence
+Please. / Here you go.	<u>Alsjeblieft.</u> (informal) / <u>Alstublieft.</u> (formal)	expression
+Thank you. / Thanks.	<u>Dank je wel.</u> (informal) / <u>Dank u wel.</u> (formal) / <u>Bedankt.</u>	expression
+You're welcome.	<u>Graag gedaan.</u>	expression
+Sorry. / Excuse me.	<u>Sorry.</u> / <u>Pardon.</u>	expression
+Good morning. / Good afternoon. / Good evening.	<u>Goedemorgen.</u> / <u>Goedemiddag.</u> / <u>Goedenavond.</u>	expression
+Goodbye! (formal / informal)	<u>Tot ziens!</u> (formal) / <u>Doei!</u> (informal)	expression
+See you later! / See you tomorrow!	<u>Tot straks!</u> / <u>Tot morgen!</u>	expression
+Hello! / Hi!	<u>Hallo!</u> / <u>Hoi!</u>	expression
+Enjoy your meal!	<u>Eet smakelijk!</u>	expression
+Cheers!	<u>Proost!</u>	expression
+Cozy / pleasant (untranslatable Dutch concept)	Wat <u>gezellig</u>! (= how cozy/nice/fun!)	expression adjective
+Delicious / nice (for food, weather, feelings)	Dit is <u>lekker</u>! (food: delicious, weather: nice, feeling: good)	expression adjective
+Good luck!	<u>Succes!</u> / <u>Veel succes!</u>	expression
+No problem.	<u>Geen probleem.</u> / <u>Maakt niet uit.</u>	expression
+I agree.	<u>Ik ben het ermee eens.</u>	expression
+I don't care. / It doesn't matter.	Het <u>maakt mij niet uit</u>.	expression
+What a pity!	<u>Wat jammer!</u>	expression
+I don't know.	<u>Geen idee.</u> / <u>Ik weet het niet.</u>	expression
+It depends.	<u>Dat hangt ervan af.</u>	expression
+The sky is blue.	De lucht is <u>blauw</u>.	adjective color sentence
+The tomato is red.	De tomaat is <u>rood</u>.	adjective sentence color
+The grass is green.	Het gras is <u>groen</u>.	adjective sentence color
+The banana is yellow.	De banaan is <u>geel</u>.	adjective sentence color
+The night is black.	De nacht is <u>zwart</u>.	adjective sentence color
+The snow is white.	De sneeuw is <u>wit</u>.	adjective sentence color
+The carrots are orange.	De wortels zijn <u>oranje</u>.	adjective sentence color
+The sea is grey today.	De zee is vandaag <u>grijs</u>.	adjective sentence color
+She wears a pink dress.	Zij draagt een <u>roze</u> jurk.	adjective sentence color
+He drives a brown car.	Hij rijdt in een <u>bruine</u> auto.	adjective sentence color
+The flowers are purple.	De bloemen zijn <u>paars</u>.	adjective sentence color
+I prefer light blue.	Ik heb liever <u>lichtblauw</u>.	adjective sentence color
+She has dark green eyes.	Zij heeft <u>donkergroene</u> ogen.	adjective sentence color
+Months of the year	<u>januari</u>, <u>februari</u>, <u>maart</u>, <u>april</u>, <u>mei</u>, <u>juni</u>, <u>juli</u>, <u>augustus</u>, <u>september</u>, <u>oktober</u>, <u>november</u>, <u>december</u>	reference
+The four seasons	<u>lente</u> (spring), <u>zomer</u> (summer), <u>herfst</u> (autumn), <u>winter</u> (winter)	reference

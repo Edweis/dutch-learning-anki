@@ -11,7 +11,7 @@ Building an Anki deck from handwritten Dutch lesson notes (photos in `images/`).
 ## Card rules
 1. **Front**: For translation cards, front and back must both be full sentences. The front is the English/French sentence, the back is the Dutch sentence. Never put just a word as the front when the back is a sentence. Tag these cards with `sentence`.
 2. **Back**: A Dutch sentence using the word, with the target word wrapped in `<u>...</u>`
-3. **Tags**: Every card must have at least one tag from: `adverb`, `verb`, `adjective`, `noun`, `pronoun`, `sentence`, `expression`, `question`, `grammar`, `reference`, `family`, `possessive`, `personal`, or other relevant grammatical category
+3. **Tags**: Every card must have at least one tag from: `adverb`, `verb`, `adjective`, `noun`, `pronoun`, `sentence`, `expression`, `question`, `grammar`, `reference`, `family`, `possessive`, `personal`, `preposition`, `color`, or other relevant grammatical category
 4. **Dutch correctness**: Always verify Dutch spelling/grammar. Fix any typos from the handwritten notes and flag corrections to the user.
 5. **Bilingual user**: The user speaks both English and French. The front of the card can be in either language depending on which was used in the lesson notes.
 
