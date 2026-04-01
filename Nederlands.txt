@@ -375,3 +375,6 @@ Months of the year	<u>januari</u>, <u>februari</u>, <u>maart</u>, <u>april</u>, 
 The four seasons	<u>lente</u> (spring), <u>zomer</u> (summer), <u>herfst</u> (autumn), <u>winter</u> (winter)	reference
 The weather is <u>warm</u> today.	Het weer is vandaag <u>warm</u>.	adjective sentence
 It is <u>freezing</u> outside.	Het is <u>ijskoud</u> buiten.	adjective sentence
+The event takes place on the <u>ground floor</u>.	Het evenement vindt plaats op de <u>begane grond</u>.	noun sentence
+The prices <u>remain the same</u>.	De prijzen <u>blijven gelijk</u>.	verb sentence
+<u>Both</u> the children <u>and</u> the adults are welcome.	<u>Zowel</u> de kinderen <u>als</u> de volwassenen zijn welkom.	expression sentence
