@@ -408,3 +408,4 @@ I don't feel like it	Ik heb er geen <u>trek</u> in (lit. I have there no pull in
 Mind your own business	<u>Bemoei</u> je met je eigen zaken (lit. Meddle you with your own matters)	expression sentence
 Happy birthday!	<u>Gefeliciteerd</u> met je verjaardag! (lit. Congratulated with your birthday!)	expression sentence
 I want my coffee to take away	Ik wil graag mijn <u>koffie</u> om mee te nemen	noun sentence
+Which one may I use?	<u>Welke</u> mag ik gebruiken?	question sentence
