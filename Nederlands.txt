@@ -381,3 +381,29 @@ The prices <u>remain the same</u>.	De prijzen <u>blijven gelijk</u>.	verb senten
 Is that allowed?	<u>Mag</u> dat?	verb question expression
 That's not necessary	<u>Hoeft</u> niet	verb expression
 I'm excited	Ik heb er <u>zin</u> in	expression sentence
+May I clear the table?	<u>Mag</u> ik de tafel afruimen? (lit. May I the table off-clear?)	verb question sentence
+I'm just kidding	Ik maak maar een <u>grapje</u> (lit. I make just a little joke)	expression sentence
+Take your time	Neem <u>rustig</u> de tijd (lit. Take calmly the time)	expression sentence
+It's up to you	Het is <u>aan jou</u> (lit. It is on you)	expression sentence
+I'm on my way	Ik ben <u>onderweg</u> (lit. I am under-way)	expression sentence
+Never mind	Laat maar <u>zitten</u> (lit. Let it just sit)	expression sentence
+I'm looking forward to it	Ik <u>kijk</u> ernaar <u>uit</u> (lit. I look there-to out)	expression sentence verb
+Can I get the bill?	Mag ik <u>afrekenen</u>? (lit. May I off-calculate?)	expression question sentence
+That makes sense	Dat <u>klopt</u> (lit. That knocks/taps)	expression sentence
+I feel like having coffee	Ik heb <u>zin in</u> koffie (lit. I have desire in coffee)	expression sentence
+Leave me alone	Laat me met <u>rust</u> (lit. Leave me with rest)	expression sentence
+What do you mean?	Wat <u>bedoel</u> je? (lit. What intend you?)	expression question sentence
+I'm fed up with it	Ik ben er <u>klaar</u> mee (lit. I am there done with)	expression sentence
+By the way...	<u>Trouwens</u>... (lit. By-trust/moreover)	expression adverb
+It's not worth it	Het is de <u>moeite</u> niet waard (lit. It is the effort not worth)	expression sentence
+I'm in a hurry	Ik heb <u>haast</u> (lit. I have haste)	expression sentence
+I can't help it	Ik kan er <u>niets</u> aan doen (lit. I can there nothing on do)	expression sentence
+Let's go!	Laten we <u>gaan</u>! (lit. Let we go!)	expression sentence
+I'm not in the mood	Ik heb er geen <u>zin</u> in (lit. I have there no desire in)	expression sentence
+It's a deal	<u>Afgesproken</u> (lit. Off-spoken / agreed)	expression
+I'm getting used to it	Ik <u>raak</u> eraan <u>gewend</u> (lit. I get there-on accustomed)	expression sentence verb
+Do you know what I mean?	<u>Snap</u> je wat ik bedoel? (lit. Grasp you what I intend?)	expression question sentence
+Keep it up!	<u>Volhouden</u>! (lit. Full-hold!)	expression verb
+I don't feel like it	Ik heb er geen <u>trek</u> in (lit. I have there no pull in)	expression sentence
+Mind your own business	<u>Bemoei</u> je met je eigen zaken (lit. Meddle you with your own matters)	expression sentence
+Happy birthday!	<u>Gefeliciteerd</u> met je verjaardag! (lit. Congratulated with your birthday!)	expression sentence
