@@ -409,3 +409,4 @@ Mind your own business	<u>Bemoei</u> je met je eigen zaken (lit. Meddle you with
 Happy birthday!	<u>Gefeliciteerd</u> met je verjaardag! (lit. Congratulated with your birthday!)	expression sentence
 I want my coffee to take away	Ik wil graag mijn <u>koffie</u> om mee te nemen	noun sentence
 Which one may I use?	<u>Welke</u> mag ik gebruiken?	question sentence
+Can I have a fork and knife?	Mag ik een <u>vork</u> en een <u>mes</u>?	noun question sentence
