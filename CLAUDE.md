@@ -21,6 +21,10 @@ Building an Anki deck from handwritten Dutch lesson notes (photos in `images/`).
 3. Claude proposes cards with corrected Dutch, flags any typos
 4. User validates
 5. Claude appends to `Nederlands.txt`
+6. Claude commits and pushes to main after every update
+
+## Dutch questions
+- When the user asks about a Dutch word or grammar question, always provide the word used in a sentence and include its IPA pronunciation.
 
 ## Conventions
 - One word/expression per card
