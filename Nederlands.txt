@@ -378,3 +378,6 @@ It is <u>freezing</u> outside.	Het is <u>ijskoud</u> buiten.	adjective sentence
 The event takes place on the <u>ground floor</u>.	Het evenement vindt plaats op de <u>begane grond</u>.	noun sentence
 The prices <u>remain the same</u>.	De prijzen <u>blijven gelijk</u>.	verb sentence
 <u>Both</u> the children <u>and</u> the adults are welcome.	<u>Zowel</u> de kinderen <u>als</u> de volwassenen zijn welkom.	expression sentence
+Is that allowed?	<u>Mag</u> dat?	verb question expression
+That's not necessary	<u>Hoeft</u> niet	verb expression
+I'm excited	Ik heb er <u>zin</u> in	expression sentence
