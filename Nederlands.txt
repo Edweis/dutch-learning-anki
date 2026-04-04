@@ -411,3 +411,4 @@ I want my coffee to take away	Ik wil graag mijn <u>koffie</u> om mee te nemen	no
 Which one may I use?	<u>Welke</u> mag ik gebruiken?	question sentence
 Can I have a fork and knife?	Mag ik een <u>vork</u> en een <u>mes</u>?	noun question sentence
 The bread is fresh	Het brood is <u>vers</u>	adjective sentence
+Do you want it here or to take away?	Wil je het hier of <u>meenemen</u>?	verb question sentence
