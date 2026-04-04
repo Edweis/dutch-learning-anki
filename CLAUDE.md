@@ -25,6 +25,7 @@ Building an Anki deck from handwritten Dutch lesson notes (photos in `images/`).
 
 ## Dutch questions
 - When the user asks about a Dutch word or grammar question, always provide the word used in a sentence and include its IPA pronunciation.
+- When a word is a compound word, break it down into its component parts (e.g. **heerlijk** = heer (lord) + lijk (like) → "lord-like" → delicious/wonderful).
 
 ## Conventions
 - One word/expression per card
