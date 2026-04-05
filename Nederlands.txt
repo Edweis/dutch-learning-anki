@@ -407,3 +407,5 @@ Keep it up!	<u>Volhouden</u>! (lit. Full-hold!)	expression verb
 I don't feel like it	Ik heb er geen <u>trek</u> in (lit. I have there no pull in)	expression sentence
 Mind your own business	<u>Bemoei</u> je met je eigen zaken (lit. Meddle you with your own matters)	expression sentence
 Happy birthday!	<u>Gefeliciteerd</u> met je verjaardag! (lit. Congratulated with your birthday!)	expression sentence
+Listen to the conversation and read the questions.	<u>Luister</u> naar het gesprek en <u>lees</u> de vragen.	verb sentence
+I want more, she has the most.	Ik wil <u>meer</u>, zij heeft het <u>meest</u>.	sentence adverb
