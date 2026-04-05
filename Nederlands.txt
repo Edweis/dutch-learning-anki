@@ -409,3 +409,4 @@ Mind your own business	<u>Bemoei</u> je met je eigen zaken (lit. Meddle you with
 Happy birthday!	<u>Gefeliciteerd</u> met je verjaardag! (lit. Congratulated with your birthday!)	expression sentence
 Listen to the conversation and read the questions.	<u>Luister</u> naar het gesprek en <u>lees</u> de vragen.	verb sentence
 I want more, she has the most.	Ik wil <u>meer</u>, zij heeft het <u>meest</u>.	sentence adverb
+Amsterdam fills my thoughts	Amsterdam <u>vult</u> mijn <u>gedachten</u>.	sentence verb noun
