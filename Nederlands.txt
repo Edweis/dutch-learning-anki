@@ -420,3 +420,4 @@ The mouse is under the table	De <u>muis</u> zit onder de tafel	noun sentence
 I visit my grandmother every Sunday	Ik <u>bezoek</u> elke zondag mijn oma	verb sentence
 I have enough time	Ik heb <u>genoeg</u> tijd	adverb sentence
 The baby is very cute	De baby is heel <u>schattig</u>	adjective sentence
+I prefer the city over the sea	Ik <u>verkies</u> de stad boven de zee	verb sentence
