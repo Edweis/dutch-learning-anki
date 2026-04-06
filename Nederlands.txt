@@ -413,3 +413,5 @@ Amsterdam fills my thoughts	Amsterdam <u>vult</u> mijn <u>gedachten</u>.	sentenc
 Nobody can wish themselves anything better<br>Than to be an Amsterdammer	Niemand kan <u>zich</u> beter <u>wensen</u><br>Dan een Amsterdammer te zijn	sentence verb pronoun
 There stands a house on the canal in old Amsterdam	Er staat een huis <u>aan de gracht</u> in oud Amsterdam	sentence noun
 Before we start, I have a question for you	<u>Voordat</u> we beginnen, heb ik een vraag voor je	sentence
+We are going to a castle this afternoon	We gaan vanmiddag naar een <u>kasteel</u>	sentence noun
+Do you want to come with us?	Wil je met ons <u>meekomen</u>?	sentence verb
