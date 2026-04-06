@@ -416,3 +416,6 @@ Before we start, I have a question for you	<u>Voordat</u> we beginnen, heb ik ee
 We are going to a castle this afternoon	We gaan vanmiddag naar een <u>kasteel</u>	sentence noun
 Do you want to come with us?	Wil je met ons <u>meekomen</u>?	sentence verb
 I'll wait for my friend	Ik <u>wacht</u> op mijn vriend	verb sentence
+The mouse is under the table	De <u>muis</u> zit onder de tafel	noun sentence
+I visit my grandmother every Sunday	Ik <u>bezoek</u> elke zondag mijn oma	verb sentence
+I have enough time	Ik heb <u>genoeg</u> tijd	adverb sentence
