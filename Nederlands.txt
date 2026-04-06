@@ -419,3 +419,4 @@ I'll wait for my friend	Ik <u>wacht</u> op mijn vriend	verb sentence
 The mouse is under the table	De <u>muis</u> zit onder de tafel	noun sentence
 I visit my grandmother every Sunday	Ik <u>bezoek</u> elke zondag mijn oma	verb sentence
 I have enough time	Ik heb <u>genoeg</u> tijd	adverb sentence
+The baby is very cute	De baby is heel <u>schattig</u>	adjective sentence
