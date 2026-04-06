@@ -421,3 +421,5 @@ I visit my grandmother every Sunday	Ik <u>bezoek</u> elke zondag mijn oma	verb s
 I have enough time	Ik heb <u>genoeg</u> tijd	adverb sentence
 The baby is very cute	De baby is heel <u>schattig</u>	adjective sentence
 I prefer the city over the sea	Ik <u>verkies</u> de stad boven de zee	verb sentence
+We watch TV in the living room	We kijken tv in de <u>woonkamer</u>	noun sentence
+I don't really care about that	Dat kan me niet zo veel <u>schelen</u>	verb sentence expression
