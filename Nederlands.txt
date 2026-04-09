@@ -415,3 +415,5 @@ There stands a house on the canal in old Amsterdam	Er staat een huis <u>aan de g
 Before we start, I have a question for you	<u>Voordat</u> we beginnen, heb ik een vraag voor je	sentence
 We are going to a castle this afternoon	We gaan vanmiddag naar een <u>kasteel</u>	sentence noun
 Do you want to come with us?	Wil je met ons <u>meekomen</u>?	sentence verb
+Sometimes it doesn't work out and you just have a gezellig time	Soms loopt het niet en heb je het gewoon <u>gezellig</u>	expression sentence
+Sometimes it doesn't work out	Soms <u>loopt</u> het niet	verb sentence
