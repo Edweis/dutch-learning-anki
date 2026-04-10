@@ -417,3 +417,4 @@ We are going to a castle this afternoon	We gaan vanmiddag naar een <u>kasteel</u
 Do you want to come with us?	Wil je met ons <u>meekomen</u>?	sentence verb
 Sometimes it doesn't work out and you just have a gezellig time	Soms loopt het niet en heb je het gewoon <u>gezellig</u>	expression sentence
 Sometimes it doesn't work out	Soms <u>loopt</u> het niet	verb sentence
+side, top, bottom, back, front, left, right	de <u>kant</u>, de boven<u>kant</u>, de onder<u>kant</u>, de achter<u>kant</u>, de voor<u>kant</u>, de linker<u>kant</u>, de rechter<u>kant</u>	noun

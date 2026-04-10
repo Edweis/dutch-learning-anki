@@ -25,6 +25,7 @@ Building an Anki deck from handwritten Dutch lesson notes (photos in `images/`).
 
 ## Dutch questions
 - When the user asks about a Dutch word or grammar question, always provide the word used in a sentence and include its IPA pronunciation.
+- When a word is a composition (e.g. blijkbaar = blijk + baar), break it down into its components and explain each part.
 
 ## Conventions
 - One word/expression per card
