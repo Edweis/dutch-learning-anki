@@ -146,7 +146,7 @@ I <u>can</u> swim well	Ik <u>kan</u> goed zwemmen	verb
 I <u>want</u> a coffee	Ik <u>wil</u> een kopje koffie	verb
 You are <u>not allowed</u> to smoke here	Je <u>mag</u> hier niet roken	verb
 You <u>must</u> do your homework	Je <u>moet</u> je huiswerk maken	verb
-It <u>will</u> rain tomorrow	Het <u>zal</u> morgen regenen	verb
+It will rain tomorrow	Het <u>regent</u> morgen	verb sentence
 You don't <u>need</u> to pay	Je <u>hoeft</u> niet te betalen	verb
 Do you <u>find</u> it <u>nice</u>?	<u>Vind</u> jij het <u>leuk</u>?	verb sentence
 I like <u>carrots</u>	Ik hou van <u>wortels</u>	noun
@@ -418,3 +418,5 @@ Do you want to come with us?	Wil je met ons <u>meekomen</u>?	sentence verb
 Sometimes it doesn't work out and you just have a gezellig time	Soms loopt het niet en heb je het gewoon <u>gezellig</u>	expression sentence
 Sometimes it doesn't work out	Soms <u>loopt</u> het niet	verb sentence
 side, top, bottom, back, front, left, right	de <u>kant</u>, de boven<u>kant</u>, de onder<u>kant</u>, de achter<u>kant</u>, de voor<u>kant</u>, de linker<u>kant</u>, de rechter<u>kant</u>	noun
+Shall we go?	<u>Zullen</u> we gaan?	verb sentence question
+Spain, United Kingdom, France, Switzerland, Italy, Germany, Poland, United States, China, Russia	<u>Spanje</u>, <u>Verenigd Koninkrijk</u>, <u>Frankrijk</u>, <u>Zwitserland</u>, <u>Italië</u>, <u>Duitsland</u>, <u>Polen</u>, <u>Verenigde Staten</u>, <u>China</u>, <u>Rusland</u>	noun reference
