@@ -440,3 +440,5 @@ The children play in the sand	De kinderen spelen in het <u>zand</u>	noun sentenc
 100, 1000, 1 million, 1 billion	<u>honderd</u> (100), <u>duizend</u> (1.000), <u>miljoen</u> (10⁶), <u>miljard</u> (10⁹) — beware: <u>biljoen</u> = 10¹² (= English <i>trillion</i>, not <i>billion</i>!)	reference
 She feels lonely after the move	Zij voelt zich <u>eenzaam</u> na de verhuizing	adjective sentence de-kleine-prins-chapter-2
 I was in the middle of the ocean	Ik was <u>midden op de oceaan</u>	expression sentence de-kleine-prins-chapter-2
+She told a funny story	Zij vertelde een <u>grappig</u> verhaal	adjective sentence de-kleine-prins-chapter-2
+She has a beautiful voice	Zij heeft een mooie <u>stem</u>	noun sentence de-kleine-prins-chapter-2
