@@ -433,3 +433,4 @@ My plane broke down	Ik <u>kreeg</u> pech met mijn vliegtuig	verb sentence de-kle
 I had no one to talk to	Ik had <u>niemand om mee te praten</u>	expression sentence de-kleine-prins-chapter-2
 Six years ago I was in the Sahara	<u>Zes jaar geleden</u> was ik in de Sahara	expression sentence de-kleine-prins-chapter-2
 The branch broke off during the storm	De tak is tijdens de storm <u>afgebroken</u>	verb sentence de-kleine-prins-chapter-2
+I went to the cinema by myself	Ik ben <u>in mijn eentje</u> naar de bioscoop gegaan	expression sentence de-kleine-prins-chapter-2
