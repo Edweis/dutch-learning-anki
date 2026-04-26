@@ -435,3 +435,8 @@ Six years ago I was in the Sahara	<u>Zes jaar geleden</u> was ik in de Sahara	ex
 The branch broke off during the storm	De tak is tijdens de storm <u>afgebroken</u>	verb sentence de-kleine-prins-chapter-2
 I went to the cinema by myself	Ik ben <u>in mijn eentje</u> naar de bioscoop gegaan	expression sentence de-kleine-prins-chapter-2
 It's a matter of life or death	Het is een <u>kwestie van leven of dood</u>	expression sentence de-kleine-prins-chapter-2
+I have just enough money for the bus	Ik heb <u>net genoeg</u> geld voor de bus	expression sentence de-kleine-prins-chapter-2
+The children play in the sand	De kinderen spelen in het <u>zand</u>	noun sentence de-kleine-prins-chapter-2
+100, 1000, 1 million, 1 billion	<u>honderd</u> (100), <u>duizend</u> (1.000), <u>miljoen</u> (10⁶), <u>miljard</u> (10⁹) — beware: <u>biljoen</u> = 10¹² (= English <i>trillion</i>, not <i>billion</i>!)	reference
+She feels lonely after the move	Zij voelt zich <u>eenzaam</u> na de verhuizing	adjective sentence de-kleine-prins-chapter-2
+I was in the middle of the ocean	Ik was <u>midden op de oceaan</u>	expression sentence de-kleine-prins-chapter-2
