@@ -420,3 +420,12 @@ Sometimes it doesn't work out	Soms <u>loopt</u> het niet	verb sentence
 side, top, bottom, back, front, left, right	de <u>kant</u>, de boven<u>kant</u>, de onder<u>kant</u>, de achter<u>kant</u>, de voor<u>kant</u>, de linker<u>kant</u>, de rechter<u>kant</u>	noun
 Shall we go?	<u>Zullen</u> we gaan?	verb sentence question
 Spain, United Kingdom, France, Switzerland, Italy, Germany, Poland, United States, China, Russia	<u>Spanje</u>, <u>Verenigd Koninkrijk</u>, <u>Frankrijk</u>, <u>Zwitserland</u>, <u>Italië</u>, <u>Duitsland</u>, <u>Polen</u>, <u>Verenigde Staten</u>, <u>China</u>, <u>Rusland</u>	noun reference
+Last week I went to the hairdresser	<u>Vorige week</u> ben ik naar de kapper gegaan	adverb sentence
+I understood a few of them	Ik <u>begreep</u> er een paar van	verb sentence
+I only understood a few sentences	Ik begreep maar <u>een paar</u> zinnen	expression sentence
+I haven't answered much	Ik heb niet veel <u>geantwoord</u>	verb sentence
+The drawing by his granddaughter is so cute	De tekening door zijn kleindochter is zo <u>schattig</u>	adjective sentence
+I have been to many barber shops	Ik ben <u>bij</u> veel kapsalons <u>geweest</u>	preposition verb sentence
+John started working when he was 14 years old	John is <u>begonnen</u> met werken toen hij veertien jaar oud was	verb sentence
+He has a small boat to sail on the canals	Hij heeft een klein bootje om op de <u>grachten</u> te <u>varen</u>	verb noun sentence
+To have my hair made prettier	Om mijn haar mooier te <u>laten maken</u>	verb expression sentence
