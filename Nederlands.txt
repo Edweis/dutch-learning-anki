@@ -449,5 +449,7 @@ Like working at the shop	<u>Zoals</u> werken in de winkel	adverb sentence
 Are you Dutch?	<u>Ben</u> jij <u>Nederlands</u>?	question sentence
 400 years ago, Dutch people produced more orange carrots because of William of Orange	Vierhonderd jaar geleden <u>produceerden</u> Nederlanders meer oranje wortels <u>vanwege</u> Willem van Oranje	sentence noun verb
 We fly to Poland	We <u>vliegen</u> naar Polen	verb sentence
-Chapter 2 is more difficult	<u>Hoofdstuk</u> 2 is <u>moeilijker</u>	noun adjective sentenceThe four elements: water, earth, fire, air	De vier elementen: <u>water</u>, <u>aarde</u>, <u>vuur</u>, <u>lucht</u>	noun reference
-A time of peace	Een tijd van <u>vrede</u>	noun
+Chapter 2 is more difficult	<u>Hoofdstuk</u> 2 is <u>moeilijker</u>	noun adjective sentenceThe four elements: water, earth, fire, air	De vier elementen: <u>water</u>, <u>aarde</u>, <u>vuur</u>, <u>lucht</u>	noun reference avatar
+A time of peace	Een tijd van <u>vrede</u>	noun avatar
+That's how you catch a fish	Zo <u>moet</u> je een vis <u>vangen</u>	verb sentence avatar
+I'm going back to Amsterdam tomorrow.	Ik ga morgen <u>terug</u> naar Amsterdam.	adverb sentence
