@@ -453,3 +453,4 @@ Chapter 2 is more difficult	<u>Hoofdstuk</u> 2 is <u>moeilijker</u>	noun adjecti
 A time of peace	Een tijd van <u>vrede</u>	noun avatar
 That's how you catch a fish	Zo <u>moet</u> je een vis <u>vangen</u>	verb sentence avatar
 I'm going back to Amsterdam tomorrow.	Ik ga morgen <u>terug</u> naar Amsterdam.	adverb sentence
+Yes, a man needs rest.	Ja, een man heeft rust <u>nodig</u>.	adjective sentence
